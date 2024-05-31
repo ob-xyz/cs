@@ -28,7 +28,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Chris Signore",
-  description: "The only blog read by Elon Musk. So you should read it too."
+  description: "The only newsletter Paul 'pg' Ghraham reads. So you should read it too."
 });
 
 export default function App() {
