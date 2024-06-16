@@ -1,8 +1,12 @@
 import logo from "~/../public/img/cs.png";
+import logo2 from "~/../public/img/me.png";
 
 export default function Index() {
   return (
     <div className="container">
+      <nav>      
+        <img src={logo2} />
+      </nav>
       <div className="inner-content">
       <div className="outer-hey">
         <p className="hey">Hey, I'm Chris...</p>
