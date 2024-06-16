@@ -3,8 +3,8 @@
   flex-direction: column;
 }
 .container nav {
-  display: flex;
   padding-top: 1rem;
+  padding-left: 3rem;
 }
 .container nav img {
   width: 12rem;
@@ -60,8 +60,21 @@
 }
 
 @media (max-width: 640px) {
-  .container {
-    height: 82.5vh;
+  .container nav {
+    padding-left: 5.5rem;
+  }
+  .container nav img {
+    width: 8rem;
+  }
+  .container .inner-content .outer-hey {
+    margin-top: 3.5rem;
+    margin-left: 2rem;
+  }
+  .container .inner-content .outer-hey .hey {
+    font-size: 0.9rem;
+  }
+  .container .inner-content img {
+    width: 35rem;
   }
   .container .inner-content .terms p {
     font-size: 0.55rem;

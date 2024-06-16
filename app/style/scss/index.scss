@@ -4,8 +4,8 @@
     flex-direction: column;
 
     nav{
-        display:flex;
         padding-top:1rem;
+        padding-left:3rem;
         img{
             width:12rem;
         }
@@ -64,8 +64,24 @@
 }
 @media (max-width:640px){
     .container{
-        height:82.5vh;
+        nav{
+            padding-left:5.5rem;
+           img{
+            width:8rem;
+           }
+        }
         .inner-content{
+            .outer-hey{
+            margin-top: 3.5rem;
+            margin-left:2rem;
+            .hey{
+                font-size:.9rem;
+            }
+        }
+
+        img{
+            width:35rem;
+        }
             .terms{
                 p{
                     font-size: .55rem;

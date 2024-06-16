@@ -5,7 +5,7 @@ export default function Index() {
   return (
     <div className="container">
       <nav>      
-        <img src={logo2} />
+      <a className="none" href="https://app.jeffamzn.com/subscription/form"><img src={logo2} /></a>
       </nav>
       <div className="inner-content">
       <div className="outer-hey">
