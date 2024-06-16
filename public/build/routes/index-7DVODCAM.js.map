@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/index.tsx"],
+  "sourcesContent": ["import logo from \"~/../public/img/cs.png\";\n\nexport default function Index() {\n  return (\n    <div className=\"container\">\n      <div className=\"inner-content\">\n      <a className=\"none\" href=\"https://app.jeffamzn.com/subscription/form\"><img src={logo} /></a>\n      <a href=\"https://app.jeffamzn.com/subscription/form\">Subscribe</a>\n      <div className=\"terms\">\n          <p>This site is protected by hCAPTCHA and the X <a target=\"_blank\" href=\"https://x.com/en/privacy\">Privacy Policy</a> and <a target=\"_blank\"  href=\"https://x.com/en/tos\">Terms of Service</a> apply.</p>\n      </div>\n      </div>\n    </div>\n  );\n}"],
+  "mappings": ";;;;;;;;;AAM4E;AAJ7D,SAAR,QAAyB;AAC9B,SACE,mDAAC,SAAI,WAAU,aACb,6DAAC,SAAI,WAAU,iBACf;AAAA,uDAAC,OAAE,WAAU,QAAO,MAAK,8CAA6C,6DAAC,SAAI,KAAK,cAAV;AAAA;AAAA;AAAA;AAAA,WAAgB,KAAtF;AAAA;AAAA;AAAA;AAAA,WAAwF;AAAA,IACxF,mDAAC,OAAE,MAAK,8CAA6C,yBAArD;AAAA;AAAA;AAAA;AAAA,WAA8D;AAAA,IAC9D,mDAAC,SAAI,WAAU,SACX,6DAAC,OAAE;AAAA;AAAA,MAA6C,mDAAC,OAAE,QAAO,UAAS,MAAK,4BAA2B,8BAAnD;AAAA;AAAA;AAAA;AAAA,aAAiE;AAAA,MAAI;AAAA,MAAK,mDAAC,OAAE,QAAO,UAAU,MAAK,wBAAuB,gCAAhD;AAAA;AAAA;AAAA;AAAA,aAAgE;AAAA,MAAI;AAAA,SAA9L;AAAA;AAAA;AAAA;AAAA,WAAqM,KADzM;AAAA;AAAA;AAAA;AAAA,WAEA;AAAA,OALA;AAAA;AAAA;AAAA;AAAA,SAMA,KAPF;AAAA;AAAA;AAAA;AAAA,SAQA;AAEJ;",
+  "names": []
+}

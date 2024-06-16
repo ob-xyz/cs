@@ -1,0 +1,18 @@
+/* app/style/global/global.css */
+body:before {
+  font-family:
+    Source Code Pro,
+    SF Mono,
+    Monaco,
+    Inconsolata,
+    Fira Mono,
+    Droid Sans Mono,
+    monospace,
+    monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: unmatched "}".\a    \2577\a 43 \2502  }\a    \2502  ^\a    \2575\a   app/style/scss/index.scss 43:1    @import\a   app/style/global/global.scss 5:1  root stylesheet';
+}

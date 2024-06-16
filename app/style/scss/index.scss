@@ -1,10 +1,22 @@
+
 .container{
     display:flex;
     flex-direction: column;
-    height:87.5vh;
+
     .inner-content{
         display: flex;
         flex-direction: column;
+        .outer-hey{
+            margin-top: 15rem;
+            margin-left:5rem;
+            .hey{
+                font-family: bold;
+                background: #D6F900;
+                padding:.75rem 1rem;
+                border-radius: .5rem;
+                transform: rotate(-5deg);
+            }
+        }
     .none{
         margin-top:0;
         background:none;
@@ -12,10 +24,11 @@
         border-radius:0;
     }
     img{
+        margin-top: -.75rem;
+        margin-bottom:-1.8rem;
         max-width: 45rem;
     }
     a{
-        margin-top:.5rem;
         font-family: arial;
         background:black;
         color:#fff;
@@ -23,6 +36,7 @@
         border-radius:1.25rem;
         font-size: .95rem;
     }
+   
     .terms{
         margin-top:1.1rem;
         p, a{
