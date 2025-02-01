@@ -24,7 +24,7 @@ return (
       <div className="inner-content">
       <div className="text">
          <p>All access. Zero bullsh#t.</p>
-         <p>Real stories and humorous insights from how I built a <bold><underline>$100 million dollar company</underline> with 0 employees</bold>.</p>
+         <p>Real stories and humorous insights from how I built a <underline>$1 million dollar company</underline> with 0 employees.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           {/* <input type="text" name="name" placeholder="Enter Your Name" /> */}

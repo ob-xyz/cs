@@ -4,7 +4,7 @@
     max-height:100vh;
     img{
         background:none;
-        margin:1rem 0 2.5rem 0;
+        margin:.5rem 0 2.5rem 0;
         width: 14rem;
     }
 .inner-content{
@@ -19,7 +19,7 @@
         padding:0;
     }
     p:nth-child(2){
-        max-width:52.5%;
+        max-width:53.5%;
     }
     p {
         text-align: center;
@@ -27,16 +27,14 @@
         font-size:1.15rem;
         line-height: 1.75rem;
     }
-    bold{
+    underline{
         font-size:1.2rem;
         font-family:medium;
-    }
-    underline{
         border-bottom: 1px solid #000;
     }
 }
 input{
-    width:27rem;
+    width:28rem;
     padding:.85rem .75rem;
     font-family: arial;
     color:black;
@@ -73,7 +71,7 @@ input{
     .inner-content{
         .text{
             p:nth-child(2){
-                max-width:50%;
+                max-width:51%;
             }
         }
     }
@@ -88,11 +86,11 @@ input{
     .inner-content{
         .text{
             p:nth-child(2){
-                max-width:80%;
+                max-width:81%;
             }
         }
         input{
-            width:26rem;
+            width:27rem;
         }
     }
  }
