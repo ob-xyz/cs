@@ -1,0 +1,195 @@
+/* FONTS */
+@font-face {
+  font-family: "book";
+  src: url("../global/fonts/bal-book.woff2") format("woff2");
+}
+@font-face {
+  font-family: "medium";
+  src: url("../global/fonts/bal-medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "bold";
+  src: url("../global/fonts/bal-bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "arial";
+  src: url("../global/fonts/bal-arial.woff2") format("woff2");
+}
+@font-face {
+  font-family: "bw";
+  src: url("../global/fonts/BroadwayD.otf") format("otf");
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.container img {
+  background: none;
+  margin: 0.5rem 0 4.5rem 0;
+  border-radius: 0.75rem;
+  width: 27.5rem;
+}
+.container .inner-content {
+  display: flex;
+  flex-direction: column;
+}
+.container .inner-content .text p {
+  line-height: 1.75rem;
+}
+.container .inner-content .text p:nth-child(1) {
+  text-align: center;
+  font-family: bw;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 0;
+}
+.container .inner-content .text p:nth-child(2) {
+  text-align: center;
+  padding: 0.8rem 0 0 0;
+  font-size: 1.15rem;
+}
+.container .inner-content .text p:nth-child(3) {
+  text-align: center;
+}
+.container .inner-content .text p:nth-child(4) {
+  text-align: center;
+}
+.container .inner-content input {
+  width: 27rem;
+  padding: 0.85rem 0.75rem;
+  font-family: arial;
+  color: black;
+  border: 2px solid black;
+  border-radius: 0.2rem;
+  font-size: 1.1rem;
+}
+.container .inner-content input:focus {
+  outline: none;
+  box-shadow: 0 0 1px 1px black;
+  border-color: black;
+  caret-color: black;
+}
+.container .inner-content .email {
+  margin-top: 0.75rem;
+  padding-left: 0.6rem;
+}
+.container .inner-content .submit {
+  padding: 0.75rem 0.75rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.65rem;
+  background-color: black;
+  color: white;
+}
+.container .inner-content .submit:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 655px) {
+  .container img {
+    width: 23.5rem;
+  }
+  .container .inner-content .text p:nth-child(1) {
+    font-size: 1.75rem;
+  }
+  .container .inner-content .text p:nth-child(2),
+  .container .inner-content .text p:nth-child(3),
+  .container .inner-content .text p:nth-child(4) {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .container .inner-content input {
+    width: 22rem;
+  }
+}
+* {
+  box-sizing: border-box;
+  margin: auto;
+  user-select: none;
+}
+
+html,
+body {
+  margin: auto;
+  width: 100%;
+  height: 100vh;
+  background-color: #fafafa;
+}
+
+body {
+  overflow-y: none;
+  overflow-x: hidden;
+}
+
+main {
+  padding: 0;
+  margin: 0;
+  background: #fafafa;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  outline: none;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  font-family: "book";
+}
+
+h1 {
+  font-size: 1.35rem;
+  font-family: book;
+  font-weight: 100;
+  color: #121212;
+  text-decoration: none;
+  text-shadow: none;
+}
+
+h2 {
+  font-size: 0.8rem;
+  font-family: medium;
+  font-weight: 100;
+  color: #121212;
+  text-decoration: none;
+  text-shadow: none;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: "medium";
+  color: #121212;
+  text-shadow: none;
+}
+
+p {
+  font-family: "book";
+  font-size: 1.1rem;
+  color: #121212;
+  text-shadow: none;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+}
+
+span {
+  font-family: bold;
+  font-size: 4rem;
+  color: #121212;
+}
+
+button {
+  font-size: 0.8rem;
+  font-family: medium;
+  font-weight: 100;
+}
+
+/*# sourceMappingURL=global.css.map */
