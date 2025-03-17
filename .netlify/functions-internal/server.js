@@ -155,7 +155,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Full Speed, Eh!!" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Unite & Unleash." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 26,
           columnNumber: 10
@@ -167,7 +167,7 @@ function Index() {
             lineNumber: 27,
             columnNumber: 22
           }, this),
-          ", and I'm moving Full Speed Ahead with the Progressive Conservative Party of Canada \u{1F1E8}\u{1F1E6}"
+          ", and I will Unite & Unleash Canada with the Progressive Conservative Party of Canada \u{1F1E8}\u{1F1E6}"
         ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
@@ -178,36 +178,36 @@ function Index() {
           lineNumber: 28,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "To be fair, Trump only did this after he saw the Liberal Party allow Bouncy Castles become a thing people inflate on Parliament Hill." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "To be fair, Trump only did this after he saw the Liberal Party of Canada allow Bouncy Castles to become a something people inflate on Parliament Hill." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 29,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: 'But now? we gotta unbreak and unite Canada. And, it begins with my "Full Speed, Eh!" plan that does 3 things that sound easy but take lots of work:' }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: 'But now? we gotta United and Unleash Canada. And, it begins with my "Unite & Unleash Canada" plan that will do 3 things:' }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 30,
           columnNumber: 10
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
-          "1/ Accelerate Jobs.",
+          "1/ Unleash Jobs.",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("br", {}, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 31,
-            columnNumber: 33
+            columnNumber: 30
           }, this),
-          "2/ Accelerate GDP.",
+          "2/ Unleash GDP.",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("br", {}, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 32,
-            columnNumber: 29
+            columnNumber: 26
           }, this),
-          "3/ Accelerate Canada."
+          "3/ Unleash Canada, and Unite Us All."
         ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 31,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "If you're moving full speed ahead like me, consider also subscribing to my free weekly newsletter called The Citizen." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "If you you want to unite and unleash Canada like me, consider also subscribing to my free weekly newsletter called The Citizen." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 34,
           columnNumber: 9
@@ -269,7 +269,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-WREL762V.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-IU5UBK72.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "59fbe691", hmr: void 0, url: "/build/manifest-59FBE691.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-WREL762V.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-6L6LVNZS.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "5a19c863", hmr: void 0, url: "/build/manifest-5A19C863.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {

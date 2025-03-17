@@ -23,15 +23,15 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-         <p>Full Speed, Eh!</p>
-         <p>Hey! I'm <u>Chris Signore</u>, and I'm moving Full Speed Ahead with the Progressive Conservative Party of Canada 🇨🇦</p>
+         <p>Unite & Unleash.</p>
+         <p>Hey! I'm <u>Chris Signore</u>, and I will Unite & Unleash Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
          <p>The truth is, I'm running to be your PM because Trump joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), and then added big tariffs to (mostly small) businesses like mine and yours.</p>
          <p>To be fair, Trump only did this after he saw the Liberal Party of Canada allow Bouncy Castles to become a something people inflate on Parliament Hill.</p>
-         <p>But now? we gotta unbreak and unite Canada. And, it begins with my "Full Speed, Eh!" plan that does 3 things that sound easy but will take a lotta of work:</p>
-          <p>1/ Accelerate Jobs.<br></br>
-          2/ Accelerate GDP.<br></br>         
-          3/ Accelerate Canada.</p>
-        <p>If you're moving full speed ahead like me, consider also subscribing to my free weekly newsletter called The Citizen.</p>
+         <p>But now? we gotta United and Unleash Canada. And, it begins with my "Unite & Unleash Canada" plan that will do 3 things:</p>
+          <p>1/ Unleash Jobs.<br></br>
+          2/ Unleash GDP.<br></br>         
+          3/ Unleash Canada, and Unite Us All.</p>
+        <p>If you you want to unite and unleash Canada like me, consider also subscribing to my free weekly newsletter called The Citizen.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
