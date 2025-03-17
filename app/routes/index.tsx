@@ -28,12 +28,10 @@ export default function Index() {
          <p>The truth is, I'm running to be your PM because Trump joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), and then added big tariffs to (mostly small) businesses like mine and yours.</p>
          <p>To be fair, Trump only did this after he saw the Liberal Party allow Bouncy Castles become a thing people inflate on Parliament Hill.</p>
          <p>But now? we gotta unbreak and unite Canada. And, it begins with my "Full Speed, Eh!" plan that does 3 things that sound easy but take lots of work:</p>
-         <ul>
-          <li>1/ Accelerate Jobs.</li>
-          <li>2/ Accelerate GDP.</li>          
-          <li>3/ Accelerate Canada.</li>
-         </ul>
-        <p>If you're moving full speed ahead like me, consider also subscribing to my free weekly newsletter: The Citizen</p>
+          <p>1/ Accelerate Jobs.<br></br>
+          2/ Accelerate GDP.<br></br>         
+          3/ Accelerate Canada.</p>
+        <p>If you're moving full speed ahead like me, consider also subscribing to my free weekly newsletter called The Citizen.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
