@@ -1,0 +1,169 @@
+/* app/style/global/global.css */
+@font-face {
+  font-family: book;
+  src: url(/build/_assets/bal-book-RPKGHEBY.woff2) format("woff2");
+}
+@font-face {
+  font-family: medium;
+  src: url(/build/_assets/bal-medium-X4OF47SR.woff2) format("woff2");
+}
+@font-face {
+  font-family: bold;
+  src: url(/build/_assets/bal-bold-MFTBU4WP.woff2) format("woff2");
+}
+@font-face {
+  font-family: arial;
+  src: url(/build/_assets/bal-arial-AQMYFA4H.woff2) format("woff2");
+}
+@font-face {
+  font-family: bw;
+  src: url(/build/_assets/BroadwayD-FDCN7NFO.otf) format("otf");
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 12.5rem;
+}
+.container img {
+  background: none;
+  margin: 1.5rem 0 1.5rem 1rem;
+  width: 3.5rem;
+}
+.container .inner-content {
+  display: flex;
+  flex-direction: column;
+}
+.container .inner-content .text p {
+  padding: .85rem 0 1rem;
+  text-align: center;
+  line-height: 1.75rem;
+  width: 40%;
+}
+.container .inner-content .text p:nth-child(1) {
+  text-align: center;
+  font-family: bw;
+  font-weight: 700;
+  font-size: 2rem;
+  padding: 0;
+}
+.container .inner-content .text .tal {
+  text-align: left;
+}
+.container .inner-content input {
+  width: 27rem;
+  padding: .85rem .75rem;
+  font-family: arial;
+  color: #000;
+  border: 2px solid black;
+  border-radius: .2rem;
+  font-size: 1.1rem;
+}
+.container .inner-content input:focus {
+  outline: none;
+  box-shadow: 0 0 1px 1px #000;
+  border-color: #000;
+  caret-color: #000;
+}
+.container .inner-content .email {
+  margin-top: .75rem;
+  padding-left: .6rem;
+}
+.container .inner-content .submit {
+  padding: .75rem;
+  margin-top: .5rem;
+  margin-bottom: .65rem;
+  background-color: #000;
+  color: #fff;
+}
+.container .inner-content .submit:hover {
+  opacity: .85;
+  cursor: pointer;
+}
+@media screen and (max-width: 655px) {
+  .container .inner-content .text p {
+    width: 75%;
+  }
+  .container .inner-content .text p:nth-child(1) {
+    font-size: 1.75rem;
+  }
+  .container .inner-content input {
+    width: 23.5rem;
+  }
+}
+* {
+  box-sizing: border-box;
+  margin: auto;
+  user-select: none;
+}
+html,
+body {
+  margin: auto;
+  width: 100%;
+  height: 100vh;
+  background-color: #fafafa;
+}
+body {
+  overflow-y: none;
+  overflow-x: hidden;
+}
+main {
+  padding: 0;
+  margin: 0;
+  background: #fafafa;
+}
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  outline: none;
+  border: none;
+}
+a {
+  text-decoration: none;
+  font-family: book;
+}
+h1 {
+  font-size: 1.35rem;
+  font-family: book;
+  font-weight: 100;
+  color: #121212;
+  text-decoration: none;
+  text-shadow: none;
+}
+h2 {
+  font-size: .8rem;
+  font-family: medium;
+  font-weight: 100;
+  color: #121212;
+  text-decoration: none;
+  text-shadow: none;
+}
+h3,
+h4,
+h5,
+h6 {
+  font-family: medium;
+  color: #121212;
+  text-shadow: none;
+}
+p {
+  font-family: book;
+  font-size: 1.1rem;
+  color: #121212;
+  text-shadow: none;
+}
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+}
+span {
+  font-family: bold;
+  font-size: 4rem;
+  color: #121212;
+}
+button {
+  font-size: .8rem;
+  font-family: medium;
+  font-weight: 100;
+}

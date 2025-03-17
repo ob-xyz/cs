@@ -22,11 +22,12 @@
 .container {
   display: flex;
   flex-direction: column;
+  padding-bottom: 12.5rem;
 }
 .container img {
   background: none;
   margin: 1.5rem 0 1.5rem 1rem;
-  width: 4rem;
+  width: 3.5rem;
 }
 .container .inner-content {
   display: flex;
@@ -44,6 +45,9 @@
   font-weight: bold;
   font-size: 2rem;
   padding: 0;
+}
+.container .inner-content .text .tal {
+  text-align: left;
 }
 .container .inner-content input {
   width: 27rem;
@@ -77,8 +81,8 @@
 }
 
 @media screen and (max-width: 655px) {
-  .container img {
-    width: 3.5rem;
+  .container .inner-content .text p {
+    width: 75%;
   }
   .container .inner-content .text p:nth-child(1) {
     font-size: 1.75rem;

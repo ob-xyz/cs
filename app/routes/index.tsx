@@ -23,15 +23,17 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-         <p>Unite & Unleash.</p>
-         <p>Hey! I'm <u>Chris Signore</u>, and I will Unite & Unleash Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
-         <p>The truth is, I'm running to be your PM because Trump joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), and then added big tariffs to (mostly small) businesses like mine and yours.</p>
-         <p>To be fair, Trump only did this after he saw the Liberal Party of Canada allow Bouncy Castles to become a something people inflate on Parliament Hill.</p>
-         <p>But now? we gotta United and Unleash Canada. And, it begins with my "Unite & Unleash Canada" plan that will do 3 things:</p>
-          <p>1/ Unleash Jobs.<br></br>
-          2/ Unleash GDP.<br></br>         
-          3/ Unleash Canada, and Unite Us All.</p>
-        <p>If you you want to unite and unleash Canada like me, consider also subscribing to my free weekly newsletter called The Citizen.</p>
+         <p>Unlock & Unite.</p>
+         <p>Hey! I'm <u>Chris Signore</u>, and with the Progressive Conservative Party of Canada and we will Unlock & Unite Canada 🇨🇦</p>
+         <p>The truth is, I'm running to be your PM because Trump joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), and then added massive tariffs that are already starting to deeply affect the lives of Canadians like me and you.</p>
+         <p>To be fair, Trump only did this after he saw the Liberal Party of Canada—allow Bouncy Castles—to become a thing people inflate on Parliament Hill.</p>
+         <p>Right now Canada needs a leader whose flip switch is turned on and engaged with what Canada actually needs to do.</p>
+         <p>The way I will do that is by Unlocking and Uniting Canada like nobody has ever done before:</p>
+          <p>- unlock <u>Jobs</u><br></br>
+          - unlock <u>GDP</u><br></br>         
+          - unlock <u>Canada</u><br></br>
+          - Unite <u>Canadians</u></p>
+        <p>If you wanna unlock and unite Canada with me, or just learn a bit more before getting involved, my free weekly newsletter The Citizen is the <u>best</u> way to do that.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
