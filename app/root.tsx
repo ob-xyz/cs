@@ -27,8 +27,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Jeffamazon - Thank God it's Morning.",
-  description: "Jeffamazon is the front page of the internet, delivered to your email inbox.",
+  title: "Chris Signore - PC Party of Canada",
+  description: "Hey! My name is Chris Signore, and I'm moving Full Speed Ahead with the Progressive Conservative Party of Canada.",
   viewport: "width=device-width,initial-scale=1",
 });
 
