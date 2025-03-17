@@ -40,7 +40,15 @@ function Index() {
           lineNumber: 26,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Hey! I'm moving Full Speed Ahead with the Progressive Conservative Party of Canada \u{1F1E8}\u{1F1E6}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
+          "Hey! I'm ",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("u", { children: "Chris Signore" }, void 0, false, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 27,
+            columnNumber: 22
+          }, this),
+          ", and I'm moving Full Speed Ahead with the Progressive Conservative Party of Canada \u{1F1E8}\u{1F1E6}"
+        ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
           columnNumber: 10
@@ -142,4 +150,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-OW2WR72T.js.map
+//# sourceMappingURL=/build/routes/index-IU5UBK72.js.map

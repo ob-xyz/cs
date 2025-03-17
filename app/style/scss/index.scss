@@ -3,8 +3,8 @@
     flex-direction: column;
     img{
         background:none;
-        margin:1rem 0 1.5rem 0;
-        width: 5rem;
+        margin:1.5rem 0 1.5rem 1rem;
+        width: 4rem;
     }
 .inner-content{
         display: flex;
@@ -14,7 +14,7 @@
         padding:.85rem 0 1rem 0;
         text-align: center;
         line-height: 1.75rem;
-        width:48%
+        width:40%
     }
     p:nth-child(1){
         text-align: center;
