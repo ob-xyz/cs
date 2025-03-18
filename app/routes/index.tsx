@@ -23,16 +23,11 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-         <p>Canada's Not Big Enough.</p>
-         <p>hey! I'm <u>Chris Signore</u>, and between me and you, Canada's not big enough. So I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
-         <p>Unwelcomed Tariffs have already started to impact the lives of 400,000 regular everyday working Canadians.</p>
-         <p>And, one beckoning alternative is to move Canada from 13 small economies to 1 big Canadian economy. This will begin my journey to build <b>bigger, better jobs with bigger, better GDP</b>.</p>
-         <p>But none of this happens without you joining me to begin Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:</p>
-         <p>- bigger, better <u>Jobs</u><br></br>
-          - bigger, better <u>GDP</u><br></br>         
-          - bigger, better <u>Canada</u><br></br></p>
-         <p>Wanna build a bigger, better Canada with me? 12,207 engaged Canadians already reading my private and free weekly newsletter The Citizen.</p>
-      </div>
+         <p>Bigger, Better, Bold.</p>
+         <p>hey! I'm <u>Chris Signore</u>, and together as Conservatives and Canadians we are going to reconstruct a progressive brand that builds Canada for its East and West, English and French, New Canadians and Old.</p>
+         <p>And my newsletter, The Citizen is gonna make a committment that we will build a bigger, better, bolder Canada; filled with new days of growth, prosperity, and definitely better tomorrows.</p>
+          <p>Join me, and 12,207 engaged Conservatives and Canadians who are also wanna know what's going on.</p>
+          </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
           <p><input className="submit" type="submit" value="Get access" /></p>
