@@ -25,12 +25,12 @@ export default function Index() {
       <div className="text">
          <p>Bigger, Better, Eh.</p>
          <p>Hey! I'm <u>Chris Signore</u>, and between me and you, Canada's not big enough. So I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
-         <p>Unwelcomed Tariffs have already started to impact the lives of 400,000 regular everyday working Canadians. And, one big change we can do immediately to build better jobs is move Canada to 1 big Canadian economy instead of 13.</p>
+         <p>Unwelcomed Tariffs have already started to impact the lives of 400,000 regular everyday working Canadians. And, one beckoning alternative is to move Canada from 13 small economies to 1 big Canadian economy. This will begin my journey to create bigger, better jobs and increase GDP.</p>
          <p>But none of this happens without you joining me to begin Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:</p>
-          <p>- bigger, better <u>Jobs</u><br></br>
+         <p>- bigger, better <u>Jobs</u><br></br>
           - bigger, better <u>GDP</u><br></br>         
           - bigger, better <u>Canada</u><br></br></p>
-        <p>Wanna build a bigger, better Canada with me? Get access to my free weekly newsletter.</p>
+         <p>Wanna build a bigger, better Canada with me? Get access to my free weekly newsletter.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
