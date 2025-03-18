@@ -23,17 +23,14 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-         <p>Unlock & Unite.</p>
-         <p>Hey! I'm <u>Chris Signore</u>, and with the Progressive Conservative Party of Canada and we will Unlock & Unite Canada 🇨🇦</p>
-         <p>The truth is, I'm running to be your PM because Trump joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), and then added massive tariffs that are already starting to deeply affect the lives of Canadians like me and you.</p>
-         <p>To be fair, Trump only did this after he saw the Liberal Party of Canada—allow Bouncy Castles—to become a thing people inflate on Parliament Hill.</p>
-         <p>Right now Canada needs a leader whose flip switch is turned on and engaged with what Canada actually needs to do.</p>
-         <p>The way I will do that is by Unlocking and Uniting Canada like nobody has ever done before:</p>
-          <p>- unlock <u>Jobs</u><br></br>
-          - unlock <u>GDP</u><br></br>         
-          - unlock <u>Canada</u><br></br>
-          - Unite <u>Canadians</u></p>
-        <p>If you wanna unlock and unite Canada with me, or just learn a bit more before getting involved, my free weekly newsletter The Citizen is the <u>best</u> way to do that.</p>
+         <p>Canada's Not Big Enough.</p>
+         <p>Hey! I'm <u>Chris Signore</u>, and here's how we're gonna build a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
+         <p>Recently some guy as old as my Grandpa joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), questioned an unbreakable treaty from 1908.... then added big tariffs that will impact 400,000 regular everyday Canadians like me and you.</p>
+         <p>Right now Canada wants someone who knows how to build a bigger, better something. And the only way I know how to do that is by doing 3 things:</p>
+          <p>- bigger, better <u>Jobs</u><br></br>
+          - bigger, better <u>GDP</u><br></br>         
+          - bigger, better <u>Canada</u><br></br></p>
+        <p>Wanna build a bigger, better Canada with me? Begin by joining my weekly newsletter The Citizen.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>

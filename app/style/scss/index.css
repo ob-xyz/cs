@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-direction: column;
-  padding-bottom: 12.5rem;
+  padding-bottom: 16rem;
 }
 .container img {
   background: none;
@@ -16,7 +16,7 @@
   padding: 0.85rem 0 1rem 0;
   text-align: center;
   line-height: 1.75rem;
-  width: 40%;
+  width: 28%;
 }
 .container .inner-content .text p:nth-child(1) {
   text-align: center;
@@ -24,6 +24,7 @@
   font-weight: bold;
   font-size: 2rem;
   padding: 0;
+  width: 100%;
 }
 .container .inner-content .text .tal {
   text-align: left;
@@ -61,7 +62,7 @@
 
 @media screen and (max-width: 655px) {
   .container .inner-content .text p {
-    width: 75%;
+    width: 60%;
   }
   .container .inner-content .text p:nth-child(1) {
     font-size: 1.75rem;
