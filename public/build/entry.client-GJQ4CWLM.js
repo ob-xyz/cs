@@ -1,6 +1,6 @@
 import {
   RemixBrowser
-} from "/build/_shared/chunk-6267OFIW.js";
+} from "/build/_shared/chunk-XXWHB5H2.js";
 import {
   __commonJS,
   __toESM,
@@ -21711,4 +21711,4 @@ react-dom/cjs/react-dom.development.js:
    * @license Modernizr 3.0.0pre (Custom Build) | MIT
    *)
 */
-//# sourceMappingURL=/build/entry.client-Y6MZXPQP.js.map
+//# sourceMappingURL=/build/entry.client-GJQ4CWLM.js.map

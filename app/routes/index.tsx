@@ -23,14 +23,14 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-         <p>Canada's Not Big Enough.</p>
-         <p>Hey! I'm <u>Chris Signore</u>, and I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
-         <p>Recently Trump threatened the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), then questioned an unbreakable treaty from 1908.... before proceeding to add big tariffs that is alreadying impacting the lives of 400,000 regular everyday working Canadians like me and you.</p>
-         <p>Right now Canada wants someone who knows how to build bigger, better...</p>
+         <p>Bigger, Better, Eh.</p>
+         <p>Hey! I'm <u>Chris Signore</u>, and between me and you, Canada's not big enough. So I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
+         <p>Look, I don't know if you know this, but recently Trump threatened the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), then questioned an unbreakable treaty from 1908.... before proceeding to add <u>big</u> tariffs that have already begun impacting the lives of 400,000 regular everyday working Canadians.</p>
+         <p>If you love Canada, you should join me to build Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:</p>
           <p>- bigger, better <u>Jobs</u><br></br>
           - bigger, better <u>GDP</u><br></br>         
           - bigger, better <u>Canada</u><br></br></p>
-        <p>Wanna build a bigger, better Canada with me? Join my weekly newsletter The Citizen.</p>
+        <p>Wanna build a bigger, better Canada with me? Join my weekly newsletter The Citizen (and it's pretty good, and free).</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>

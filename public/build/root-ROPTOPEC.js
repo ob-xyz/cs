@@ -5,14 +5,14 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration
-} from "/build/_shared/chunk-6267OFIW.js";
+} from "/build/_shared/chunk-XXWHB5H2.js";
 import {
   __toESM,
   require_jsx_dev_runtime
 } from "/build/_shared/chunk-SBNNL67F.js";
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-K52MLHM3.css";
+var global_default = "/build/_assets/global-7TIJBPVC.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-W4ZDL5VE.js.map
+//# sourceMappingURL=/build/root-ROPTOPEC.js.map
