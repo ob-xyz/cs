@@ -55,7 +55,7 @@ __export(root_exports, {
 var import_react2 = require("@remix-run/react");
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-7TIJBPVC.css";
+var global_default = "/build/_assets/global-YVSYC4GS.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
@@ -161,7 +161,7 @@ function Index() {
           columnNumber: 10
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
-          "Hey! I'm ",
+          "hey! I'm ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "Chris Signore" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 27,
@@ -173,59 +173,80 @@ function Index() {
           lineNumber: 27,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Unwelcomed Tariffs have already begun impacting the lives of 400,000 regular everyday working Canadians. And really, we could have 1 big Canadian economy instead of 13." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Unwelcomed Tariffs have already started to impact the lives of 400,000 regular everyday working Canadians." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "And it begins with you joining me to build Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
+          "And, one beckoning alternative is to move Canada from 13 small economies to 1 big Canadian economy. This will begin my journey to build ",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("b", { children: "bigger, better jobs with bigger, better GDP" }, void 0, !1, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 29,
+            columnNumber: 149
+          }, this),
+          "."
+        ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 29,
+          columnNumber: 10
+        }, this),
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But none of this happens without you joining me to begin Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:" }, void 0, !1, {
+          fileName: "app/routes/index.tsx",
+          lineNumber: 30,
           columnNumber: 10
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
           "- bigger, better ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "Jobs" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 30,
-            columnNumber: 31
+            lineNumber: 31,
+            columnNumber: 30
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("br", {}, void 0, !1, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 30,
-            columnNumber: 42
+            lineNumber: 31,
+            columnNumber: 41
           }, this),
           "- bigger, better ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "GDP" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 31,
+            lineNumber: 32,
             columnNumber: 28
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("br", {}, void 0, !1, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 31,
+            lineNumber: 32,
             columnNumber: 38
           }, this),
           "- bigger, better ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "Canada" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 32,
+            lineNumber: 33,
             columnNumber: 28
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("br", {}, void 0, !1, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 32,
+            lineNumber: 33,
             columnNumber: 41
           }, this)
         ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 30,
-          columnNumber: 11
+          lineNumber: 31,
+          columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Wanna build a bigger, better Canada with me? Subscribe to my free weekly newsletter." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
+          "Wanna build a bigger, better Canada with me? ",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "12,207 engaged Canadians" }, void 0, !1, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 34,
+            columnNumber: 58
+          }, this),
+          " are already reading my free weekly newsletter."
+        ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 33,
-          columnNumber: 9
+          lineNumber: 34,
+          columnNumber: 10
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/index.tsx",
@@ -235,15 +256,6 @@ function Index() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("form", { method: "post", action: "https://app.jeffamzn.com/subscription/form", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { className: "email", type: "email", name: "email", required: !0, placeholder: "Email" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 36,
-          columnNumber: 14
-        }, this) }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 36,
-          columnNumber: 11
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { className: "submit", type: "submit", value: "Subscribe" }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 14
         }, this) }, void 0, !1, {
@@ -251,24 +263,33 @@ function Index() {
           lineNumber: 37,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "h-captcha", "data-sitekey": "db0e76a6-3d84-4378-abe6-88526faac9d2" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { className: "submit", type: "submit", value: "Get access" }, void 0, !1, {
+          fileName: "app/routes/index.tsx",
+          lineNumber: 38,
+          columnNumber: 14
+        }, this) }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { id: "3a575", type: "hidden", name: "l", checked: !0, value: "3a575627-dc5a-4d06-b627-05ca13da2e85" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "h-captcha", "data-sitekey": "db0e76a6-3d84-4378-abe6-88526faac9d2" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 39,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { type: "hidden", name: "nonce" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { id: "3a575", type: "hidden", name: "l", checked: !0, value: "3a575627-dc5a-4d06-b627-05ca13da2e85" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
+          columnNumber: 11
+        }, this),
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { type: "hidden", name: "nonce" }, void 0, !1, {
+          fileName: "app/routes/index.tsx",
+          lineNumber: 41,
           columnNumber: 11
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 35,
+        lineNumber: 36,
         columnNumber: 7
       }, this)
     ] }, void 0, !0, {
@@ -284,7 +305,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-GJQ4CWLM.js", imports: ["/build/_shared/chunk-XXWHB5H2.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-ROPTOPEC.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-B66AIQNK.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "6b4244f7", hmr: void 0, url: "/build/manifest-6B4244F7.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-3EJ55RLE.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-H6YNF625.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "bd7a3d04", hmr: void 0, url: "/build/manifest-BD7A3D04.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {

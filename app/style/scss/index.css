@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-direction: column;
-  padding-bottom: 16rem;
+  padding-bottom: 17.5rem;
 }
 .container img {
   background: none;
@@ -16,7 +16,7 @@
   padding: 0.85rem 0 1rem 0;
   text-align: center;
   line-height: 1.75rem;
-  width: 32.5%;
+  width: 33%;
 }
 .container .inner-content .text p:nth-child(1) {
   text-align: center;
