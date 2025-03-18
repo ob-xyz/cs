@@ -47,18 +47,18 @@ function Index() {
             lineNumber: 27,
             columnNumber: 22
           }, this),
-          ", and here's how we're gonna build a Bigger, Better Canada with the Progressive Conservative Party of Canada \u{1F1E8}\u{1F1E6}"
+          ", and I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada \u{1F1E8}\u{1F1E6}"
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Recently some guy as old as my Grandpa joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), questioned an unbreakable treaty from 1908.... then added big tariffs that will impact 400,000 regular everyday Canadians like me and you." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Recently Trump threatened the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), then questioned an unbreakable treaty from 1908.... before proceeding to add big tariffs that is alreadying impacting the lives of 400,000 regular everyday working Canadians like me and you." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Right now Canada wants someone who knows how to build a bigger, better something. And the only way I know how to do that is by doing 3 things:" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Right now Canada wants someone who knows how to build bigger, better..." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 29,
           columnNumber: 10
@@ -102,7 +102,7 @@ function Index() {
           lineNumber: 30,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Wanna build a bigger, better Canada with me? Begin by joining my weekly newsletter The Citizen." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Wanna build a bigger, better Canada with me? Join my weekly newsletter The Citizen." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 33,
           columnNumber: 9
@@ -165,4 +165,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-VJD2SNRV.js.map
+//# sourceMappingURL=/build/routes/index-ULI3UZTA.js.map

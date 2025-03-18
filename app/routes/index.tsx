@@ -24,13 +24,13 @@ export default function Index() {
       <div className="inner-content">
       <div className="text">
          <p>Canada's Not Big Enough.</p>
-         <p>Hey! I'm <u>Chris Signore</u>, and here's how we're gonna build a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
-         <p>Recently some guy as old as my Grandpa joked about the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), questioned an unbreakable treaty from 1908.... then added big tariffs that will impact 400,000 regular everyday Canadians like me and you.</p>
-         <p>Right now Canada wants someone who knows how to build a bigger, better something. And the only way I know how to do that is by doing 3 things:</p>
+         <p>Hey! I'm <u>Chris Signore</u>, and I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
+         <p>Recently Trump threatened the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), then questioned an unbreakable treaty from 1908.... before proceeding to add big tariffs that is alreadying impacting the lives of 400,000 regular everyday working Canadians like me and you.</p>
+         <p>Right now Canada wants someone who knows how to build bigger, better...</p>
           <p>- bigger, better <u>Jobs</u><br></br>
           - bigger, better <u>GDP</u><br></br>         
           - bigger, better <u>Canada</u><br></br></p>
-        <p>Wanna build a bigger, better Canada with me? Begin by joining my weekly newsletter The Citizen.</p>
+        <p>Wanna build a bigger, better Canada with me? Join my weekly newsletter The Citizen.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
