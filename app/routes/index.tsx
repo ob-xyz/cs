@@ -30,7 +30,7 @@ export default function Index() {
          <p>- bigger, better <u>Jobs</u><br></br>
           - bigger, better <u>GDP</u><br></br>         
           - bigger, better <u>Canada</u><br></br></p>
-         <p>Wanna build a bigger, better Canada with me? Get access to my free weekly newsletter.</p>
+         <p>Wanna begin building a bigger, better Canada with me and 12,207 engaged Canadians? Then you should join my free weekly newsletter.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
