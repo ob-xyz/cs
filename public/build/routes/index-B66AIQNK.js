@@ -53,20 +53,12 @@ function Index() {
           lineNumber: 27,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
-          "Look, I don't know if you know this, but recently Trump threatened the sovereignty of my country, called my Prime Minister a Governor (on the internet of all places), then questioned an unbreakable treaty from 1908.... before proceeding to add ",
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("u", { children: "big" }, void 0, false, {
-            fileName: "app/routes/index.tsx",
-            lineNumber: 28,
-            columnNumber: 257
-          }, this),
-          " tariffs that have already begun impacting the lives of 400,000 regular everyday working Canadians."
-        ] }, void 0, true, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Unwelcomed Tariffs have already begun impacting the lives of 400,000 regular everyday working Canadians. And really, we could have 1 big Canadian economy instead of 13." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
           columnNumber: 10
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "If you love Canada, you should join me to build Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "And it begins with you joining me to build Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 29,
           columnNumber: 10
@@ -110,7 +102,7 @@ function Index() {
           lineNumber: 30,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Wanna build a bigger, better Canada with me? Join my weekly newsletter The Citizen (and it's pretty good, and free)." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Wanna build a bigger, better Canada with me? Subscribe to my free weekly newsletter." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 33,
           columnNumber: 9
@@ -173,4 +165,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-XZ7SW6UB.js.map
+//# sourceMappingURL=/build/routes/index-B66AIQNK.js.map
