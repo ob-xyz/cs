@@ -24,7 +24,7 @@ export default function Index() {
       <div className="inner-content">
       <div className="text">
          <p>Bigger, Better, Eh.</p>
-         <p>Hey! I'm <u>Chris Signore</u>, and between me and you, Canada's not big enough. So I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
+         <p>hey! I'm <u>Chris Signore</u>, and between me and you, Canada's not big enough. So I'm building a Bigger, Better Canada with the Progressive Conservative Party of Canada 🇨🇦</p>
          <p>Unwelcomed Tariffs have already started to impact the lives of 400,000 regular everyday working Canadians. And, one beckoning alternative is to move Canada from 13 small economies to 1 big Canadian economy. This will begin my journey to create bigger, better jobs and increase GDP.</p>
          <p>But none of this happens without you joining me to begin Bigger, Better, Eh. My 3 step plan to a bigger, better Canada:</p>
          <p>- bigger, better <u>Jobs</u><br></br>
