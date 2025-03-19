@@ -24,9 +24,9 @@ export default function Index() {
       <div className="inner-content">
       <div className="text">
          <p>The Greatest Country.</p>
-         <p>hey! I'm Chris Signore with the Progressive Conservative Party of Canada, and together we're gonna make Canada the greatest country in the world.</p>
-         <p>Join 12,207 proud Canadians like me and you who also think we are the greatest country.</p>
-      </div>
+         <p>hey! I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and together, we're gonna make Canada the greatest country in the world.</p>
+         <p>Wanna learn more? Sign up below to learn with 12,207 proud Canadians like me and you.</p>
+         </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
           <p><input className="submit" type="submit" value="Get access" /></p>
