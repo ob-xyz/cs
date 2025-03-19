@@ -55,7 +55,7 @@ __export(root_exports, {
 var import_react2 = require("@remix-run/react");
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-B7IBLMZK.css";
+var global_default = "/build/_assets/global-EKN7HOMW.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
@@ -70,8 +70,8 @@ var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
   }
 ], meta = () => ({
   charset: "utf-8",
-  title: "The Citizen - Chris Signore",
-  description: "The Citizen is a newsletter that helps engaged Conservatives and Canadians understand how to make Canada the greatest country in the world.",
+  title: "The Citizen - Policy & Politics",
+  description: "The Citizen is the premier source for policy and political coverage in Canada, reporting on every aspect of the business of The Hill and the campaign trail.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -160,7 +160,15 @@ function Index() {
           lineNumber: 26,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "hey! I'm Chris Signore and with the Progressive Conservative Party of Canada, I'm building the greatest country in the world." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
+          "hey! I'm ",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "Chris Signore" }, void 0, !1, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 27,
+            columnNumber: 23
+          }, this),
+          " with the Progressive Conservative Party of Canada\u2014and\u2014it's time to build the greatest country in the world."
+        ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
           columnNumber: 11
@@ -227,7 +235,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-MOP6OVGD.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-3UVSA6BW.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "1cf616d0", hmr: void 0, url: "/build/manifest-1CF616D0.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-JGM72SBB.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-FSYI5VNU.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "ccc3a032", hmr: void 0, url: "/build/manifest-CCC3A032.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
