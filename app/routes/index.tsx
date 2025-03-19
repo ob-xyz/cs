@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import logo from "~/../public/img/cs.png";
+import logo from "~/../public/img/cs1.png";
 
 export default function Index() {
   useEffect(() => {
@@ -24,10 +24,9 @@ export default function Index() {
       <div className="inner-content">
       <div className="text">
           <p>To the Thinkers and Doers.</p>
-          <p>Canada has the greatest citizens in the world, but under Liberal leadership, you'd never know it. Well folks, that stops now.</p>
-          <p>I'm Chris Signore with the Progressive Conservative Party of Canada, and my new newsletter The Citizen breaks down the political business of Parliament Hill and brings together the thinkers and doers of Canada who are doing great, great things.</p>
-          <p>This is just one small thing I'm doing to help make Canada the greatest country in the world.</p>
-          <p>Are you a proud Canadian Citizen like me who likes to just do things? Join my free newsletter, we're already 12,000 strong.</p>
+          <p>Canada has the greatest citizens in the world, but under Liberal leadership, you'd never know it. Well folks, today that stops.</p>
+          <p>I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and my new newsletter <u>The Citizen</u> reports on the political business of Parliament Hill, and brings together the thinkers and doers who just do things.</p>
+          <p>This is just one small way I'm helping make Canada the greatest country in the world. Every day proud Canadian citizens are just doing things like joining my free newsletter, we're already 12,000 strong.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
