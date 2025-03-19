@@ -24,7 +24,7 @@ export default function Index() {
       <div className="inner-content">
       <div className="text">
       <p>Stop the Psyop Slop.</p>
-      <p>Canada has some of the most high agency and successful citizens in the world, but under Liberal leadership, you'd never know it. And, that's why me and you are gonna stop the psyop, and clean up the slop.</p>
+      <p>Canada has some of the most high agency and successful citizens in the world, but under the latest Liberal leadership, you'd never know it. And, that's why me, you, and Canadians across the country are gonna stop the psyop, and avoid the slop.</p>
       <p>I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and my new newsletter <u>The Citizen</u> reports on the political business of Parliament Hill, and brings together high agency Canadians just trying to avoid the psyop slop.</p>
       <p>Join me, and over 12,000 proud, high agency Canadians already avoiding the psyop slop.</p>
       </div>
