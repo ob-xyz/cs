@@ -23,10 +23,10 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-      <p>Stop the Psyop.</p>
-      <p>Canada has the most successful citizens in the world, but under Liberal leadership, you'd never know it. And, that's why me and you are gonna stop the psyop, and clean up the slop.</p>
-      <p>I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and my new newsletter <u>The Citizen</u> reports on the political business of Parliament Hill, and brings together proud Canadians just trying to avoid the psyop slop.</p>
-      <p>Join me, and over 12,000 high agency Canadians already avoiding the psyop slop.</p>
+      <p>Stop the Psyop Slop.</p>
+      <p>Canada has some of the most high agency and successful citizens in the world, but under Liberal leadership, you'd never know it. And, that's why me and you are gonna stop the psyop, and clean up the slop.</p>
+      <p>I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and my new newsletter <u>The Citizen</u> reports on the political business of Parliament Hill, and brings together high agency Canadians just trying to avoid the psyop slop.</p>
+      <p>Join me, and over 12,000 proud, high agency Canadians already avoiding the psyop slop.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
