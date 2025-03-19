@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import logo from "~/../public/img/pc.png";
+import logo from "~/../public/img/cs.png";
 
 export default function Index() {
   useEffect(() => {
@@ -23,10 +23,10 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-      <p>The Greatest Country.</p>
-          <p>hey! I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and together, we're gonna make Canada the greatest country in the world.</p>
-          <p>Wanna learn more? Join 12,000 proud Canadians like me and you, and together, we'll build the greatest team.</p>
-         </div>
+          <p>The Greatest Country.</p>
+          <p>hey! I'm Chris Signore and with the Progressive Conservative Party of Canada, I'm building the greatest country in the world.</p>
+          <p>Wanna learn more? Join my free newsletter called The Citizen, we're already 12,000 strong.</p>
+      </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
           <p><input className="submit" type="submit" value="Get access" /></p>

@@ -12,7 +12,7 @@ import {
 } from "/build/_shared/chunk-SBNNL67F.js";
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-YVSYC4GS.css";
+var global_default = "/build/_assets/global-B7IBLMZK.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
@@ -31,8 +31,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Chris Signore - PC Party of Canada",
-  description: "Hey! My name is Chris Signore, and I'm moving Full Speed Ahead with the Progressive Conservative Party of Canada.",
+  title: "The Citizen - Chris Signore",
+  description: "The Citizen is a newsletter that helps engaged Conservatives and Canadians understand how to make Canada the greatest country in the world.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-3EJ55RLE.js.map
+//# sourceMappingURL=/build/root-MOP6OVGD.js.map
