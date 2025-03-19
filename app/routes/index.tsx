@@ -25,7 +25,7 @@ export default function Index() {
       <div className="text">
       <p>Stop the Psyop.</p>
       <p>Canada has the greatest citizens in the world, but under Liberal leadership, you'd never know it. And that's why me and you are gonna stop the psyop, and clean up the slop.</p>
-      <p>I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and my new newsletter <u>The Citizen</u> reports on the political business of Parliament Hill, and brings together proud Canadians just trying to avoid all the psyop slop.</p>
+      <p>I'm <u>Chris Signore</u> with the Progressive Conservative Party of Canada, and my new newsletter <u>The Citizen</u> reports on the political business of Parliament Hill, and brings together proud Canadians just trying to avoid government psyop slop.</p>
       <p>Join me, and over 12,000 high agency Canadians who are already beginning to avoid the psyop slop.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
