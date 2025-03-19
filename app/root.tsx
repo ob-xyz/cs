@@ -28,7 +28,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "The Citizen - Chris Signore",
-  description: "The Citizen is a newsletter that helps engaged Conservatives and Canadians understand what's going on in Canada.",
+  description: "The Citizen is a newsletter that helps engaged Conservatives and Canadians understand how to make Canada the greatest country in the world.",
   viewport: "width=device-width,initial-scale=1",
 });
 
