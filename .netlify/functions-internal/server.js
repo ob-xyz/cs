@@ -55,7 +55,7 @@ __export(root_exports, {
 var import_react2 = require("@remix-run/react");
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-523EAK5F.css";
+var global_default = "/build/_assets/global-D5WTS7GM.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
@@ -70,8 +70,8 @@ var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
   }
 ], meta = () => ({
   charset: "utf-8",
-  title: "The Citizen - Policy & Politics",
-  description: "The Citizen is the premier source for policy and political coverage in Canada, reporting on every aspect of the business of The Hill and the campaign trail.",
+  title: "The Citizen with Chris Signore",
+  description: "The Citizen is the premier source for policy and political coverage in Canada, reporting on the business of Parliament Hill and every aspect of the campaign trail.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -155,39 +155,39 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "To the Thinkers and Doers." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Stop the Psyop." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 26,
-          columnNumber: 11
+          columnNumber: 7
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Canada has the greatest citizens in the world, but under Liberal leadership, you'd never know it. Well folks, that stops now." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Canada has the greatest citizens in the world, but under Liberal leadership, you'd never know it. That's why me and you are gonna stop the psyop, and clean up the slop." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
-          columnNumber: 11
+          columnNumber: 7
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
           "I'm ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "Chris Signore" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 28,
-            columnNumber: 18
+            columnNumber: 14
           }, this),
           " with the Progressive Conservative Party of Canada, and my new newsletter ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "The Citizen" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 28,
-            columnNumber: 112
+            columnNumber: 108
           }, this),
-          " breaks down the political business of Parliament Hill and brings together the thinkers and doers of Canada who are doing great, great things."
+          " reports on the political business of Parliament Hill, and brings together proud Canadians just trying to avoid government psyop slop."
         ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
-          columnNumber: 11
+          columnNumber: 7
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "This is just one small thing I'm doing to help make Canada the greatest country in the world. Are you a proud Canadian Citizen like me who likes to just do things? Join my free newsletter, we're already 12,000 strong." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Join me, and over 12,000 high agency Canadians who are already beginning to avoid the psyop slop." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 29,
-          columnNumber: 11
+          columnNumber: 7
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/index.tsx",
@@ -246,7 +246,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-ZCBNWFG3.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-K4SXQCXO.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "483ef992", hmr: void 0, url: "/build/manifest-483EF992.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-PCVLRD7B.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-VM3CCFX5.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "7eb3068d", hmr: void 0, url: "/build/manifest-7EB3068D.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
