@@ -55,7 +55,7 @@ __export(root_exports, {
 var import_react2 = require("@remix-run/react");
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-D5WTS7GM.css";
+var global_default = "/build/_assets/global-HQ7Y4G3S.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
@@ -132,8 +132,8 @@ __export(routes_exports, {
 });
 var import_react3 = require("react");
 
-// public/img/cs1.png
-var cs1_default = "/build/_assets/cs1-YFLHVGOR.png";
+// public/img/cs.jpg
+var cs_default = "/build/_assets/cs-UTLANXSE.jpg";
 
 // app/routes/index.tsx
 var import_jsx_dev_runtime3 = require("react/jsx-dev-runtime");
@@ -144,7 +144,7 @@ function Index() {
       document.body.removeChild(script);
     };
   }, []), /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "container", children: [
-    /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "logo", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: cs1_default }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "logo", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: cs_default }, void 0, !1, {
       fileName: "app/routes/index.tsx",
       lineNumber: 22,
       columnNumber: 9
@@ -155,38 +155,27 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Stop the Psyop." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Thank God for People like Me and You." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 26,
           columnNumber: 7
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Canada has the greatest citizens in the world, but under Liberal leadership, you'd never know it. That's why me and you are gonna stop the psyop, and clean up the slop." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
+          "hey! I'm ",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "Chris Signore" }, void 0, !1, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 27,
+            columnNumber: 19
+          }, this),
+          " and every weekend I write about the business of politics."
+        ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
           columnNumber: 7
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
-          "I'm ",
-          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "Chris Signore" }, void 0, !1, {
-            fileName: "app/routes/index.tsx",
-            lineNumber: 28,
-            columnNumber: 14
-          }, this),
-          " with the Progressive Conservative Party of Canada, and my new newsletter ",
-          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("u", { children: "The Citizen" }, void 0, !1, {
-            fileName: "app/routes/index.tsx",
-            lineNumber: 28,
-            columnNumber: 108
-          }, this),
-          " reports on the political business of Parliament Hill, and brings together proud Canadians just trying to avoid government psyop slop."
-        ] }, void 0, !0, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Join me, and 12,000 high agency citizens trying to understand the world." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
-          columnNumber: 7
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Join me, and over 12,000 high agency Canadians who are already beginning to avoid the psyop slop." }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 29,
           columnNumber: 7
         }, this)
       ] }, void 0, !0, {
@@ -197,40 +186,40 @@ function Index() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("form", { method: "post", action: "https://app.jeffamzn.com/subscription/form", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { className: "email", type: "email", name: "email", required: !0, placeholder: "Email" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 32,
+          lineNumber: 31,
           columnNumber: 14
         }, this) }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 32,
+          lineNumber: 31,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { className: "submit", type: "submit", value: "Get access" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 33,
+          lineNumber: 32,
           columnNumber: 14
         }, this) }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 33,
+          lineNumber: 32,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "h-captcha", "data-sitekey": "db0e76a6-3d84-4378-abe6-88526faac9d2" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 34,
+          lineNumber: 33,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { id: "3a575", type: "hidden", name: "l", checked: !0, value: "3a575627-dc5a-4d06-b627-05ca13da2e85" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 35,
+          lineNumber: 34,
           columnNumber: 11
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("input", { type: "hidden", name: "nonce" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 36,
+          lineNumber: 35,
           columnNumber: 11
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 31,
+        lineNumber: 30,
         columnNumber: 7
       }, this)
     ] }, void 0, !0, {
@@ -246,7 +235,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-PCVLRD7B.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-VM3CCFX5.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "7eb3068d", hmr: void 0, url: "/build/manifest-7EB3068D.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-KMAHOBND.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-M44SJ3EI.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "aa1dadff", hmr: void 0, url: "/build/manifest-AA1DADFF.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
