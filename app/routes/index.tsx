@@ -23,7 +23,7 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-      <p>Thank God for People like Me and You.</p>
+      <p>The Citizen.</p>
       <p>hey! I'm <u>Chris Signore</u> and every weekend I write about the business of politics.</p>
       <p>Join me, and 12,000 high agency citizens trying to understand the world.</p>
       </div>
