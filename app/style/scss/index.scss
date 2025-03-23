@@ -16,7 +16,7 @@
         padding:.5rem 0 .35rem 0;
         text-align: center;
         line-height: 1.75rem;
-        width:42.5%;
+        width:55%;
     }
     p:nth-child(1){
         text-align: center;
@@ -31,7 +31,7 @@
     }
 }
 input{
-    width:27rem;
+    width:23rem;
     padding:.85rem .75rem;
     font-family: arial;
     color:black;
@@ -61,22 +61,4 @@ input{
     }
 }  
   }
-}
-@media screen and (max-width: 655px) {
-    .container{
-    .inner-content{
-        .text{
-            p{
-                width:60%;
-            }
-            p:nth-child(1){
-                font-size:1.75rem;
-            }
-
-        }
-        input{
-            width:23.5rem;
-        }
-    }
- }
 }
