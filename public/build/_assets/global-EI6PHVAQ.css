@@ -26,7 +26,7 @@
 }
 .container img {
   background: none;
-  margin: 1rem 0 2.5rem .5rem;
+  margin: 1rem 0 2.5rem 0rem;
   width: 3.5rem;
   border-radius: .5rem;
 }
@@ -37,8 +37,9 @@
 .container .inner-content .text p {
   padding: .5rem 0 .35rem;
   text-align: center;
-  line-height: 1.75rem;
-  width: 55%;
+  font-size: 1rem;
+  line-height: 1.65rem;
+  width: 36.5%;
 }
 .container .inner-content .text p:nth-child(1) {
   text-align: center;
@@ -46,7 +47,6 @@
   font-weight: 700;
   font-size: 1.5rem;
   padding: 0;
-  width: 100%;
 }
 .container .inner-content .text .tal {
   text-align: left;

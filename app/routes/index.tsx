@@ -23,9 +23,9 @@ export default function Index() {
       </div>
       <div className="inner-content">
       <div className="text">
-      <p>The Citizen.</p>
-      <p>hey! I'm <u>Chris Signore</u> and every weekend I write about the business of politics.</p>
-      <p>Join me, and 12,000 high agency citizens trying to understand the world.</p>
+      <p>hey!</p>
+      <p>I'm <u>Chris Signore</u> and every week I write about the business of politics and how it affects our daily lives.</p>
+      <p>Join me, and 12,000 people like me and you who just want to know what's going on.</p>
       </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
           <p><input className="email" type="email" name="email" required placeholder="Email" /></p>

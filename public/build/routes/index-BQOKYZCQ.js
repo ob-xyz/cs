@@ -35,25 +35,25 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "The Citizen." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "hey!" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 26,
           columnNumber: 7
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
-          "hey! I'm ",
+          "I'm ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("u", { children: "Chris Signore" }, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 27,
-            columnNumber: 19
+            columnNumber: 14
           }, this),
-          " and every weekend I write about the business of politics."
+          " and every week I write about the business of politics and how it affects our daily lives."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 27,
           columnNumber: 7
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Join me, and 12,000 high agency citizens trying to understand the world." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Join me, and 12,000 people like me and you who just want to know what's going on." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 28,
           columnNumber: 7
@@ -116,4 +116,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-J5ECWUNQ.js.map
+//# sourceMappingURL=/build/routes/index-BQOKYZCQ.js.map
