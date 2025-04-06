@@ -15,7 +15,7 @@ export const links: LinksFunction = () => {
   return [
     {
       rel: "icon",
-      href: "/favicon.png",
+      href: "/favicon.ico",
       type: "image/png",
     },
     {
@@ -38,7 +38,6 @@ export default function App() {
       <head>
         <Meta />
         <Links />
-        <link rel="icon" href="/favicon.ico" />
       </head>
       <body>
         <Outlet />
