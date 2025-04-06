@@ -38,6 +38,7 @@ export default function App() {
       <head>
         <Meta />
         <Links />
+        <link rel="icon" href="/favicon.ico" />
       </head>
       <body>
         <Outlet />
