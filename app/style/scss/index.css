@@ -5,36 +5,46 @@
 }
 .container img {
   background: none;
-  margin: 1rem 0 2.5rem 0rem;
-  width: 3.5rem;
-  border-radius: 0.5rem;
+  margin: 2rem 0 1.5rem 0rem;
+  width: 2.5rem;
+}
+.container .line {
+  width: 7.5%;
+  border: 1px solid #fafafa;
+  margin-bottom: 2rem;
+  margin-top: 0.75rem;
+}
+.container h1 {
+  text-align: center;
+  font-family: ku;
+  font-size: 2rem;
+}
+.container form {
+  padding-top: 1.5rem;
 }
 .container .inner-content {
   display: flex;
   flex-direction: column;
 }
+.container .inner-content .text h1 {
+  text-align: center;
+  font-family: ku;
+}
 .container .inner-content .text p {
-  padding: 0.5rem 0 0.35rem 0;
   text-align: center;
   font-size: 1rem;
-  line-height: 1.65rem;
-  width: 36.5%;
-}
-.container .inner-content .text p:nth-child(1) {
-  text-align: center;
-  font-family: bw;
-  font-weight: bold;
-  font-size: 1.5rem;
-  padding: 0;
+  line-height: 1.5rem;
+  padding: 0.25rem 0 1.25rem 0;
+  width: 50%;
 }
 .container .inner-content .text .tal {
   text-align: left;
 }
 .container .inner-content input {
-  width: 23rem;
+  width: 20rem;
   padding: 0.85rem 0.75rem;
   font-family: arial;
-  color: black;
+  color: #fafafa;
   border: 2px solid black;
   border-radius: 0.2rem;
   font-size: 1.1rem;
@@ -46,19 +56,41 @@
   caret-color: black;
 }
 .container .inner-content .email {
-  margin-top: 0.75rem;
   padding-left: 0.6rem;
+  margin-top: 0.15rem;
 }
 .container .inner-content .submit {
   padding: 0.75rem 0.75rem;
   margin-top: 0.5rem;
   margin-bottom: 0.65rem;
-  background-color: black;
-  color: white;
+  background-color: #fafafa;
+  color: black;
 }
 .container .inner-content .submit:hover {
   opacity: 0.85;
   cursor: pointer;
+}
+.container .port {
+  display: flex;
+  flex-direction: row;
+  gap: 5rem;
+  padding-bottom: 1.5rem;
+}
+.container .port a {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  justify-content: center; /* Center items vertically */
+  text-align: center; /* Ensure text inside <p> is centered */
+}
+.container .port a img {
+  width: 4.25rem;
+  border-radius: 0.5rem;
+  max-width: 100%; /* Optional: ensures the image doesn't overflow */
+  margin: 2rem 0 0.65rem 0;
+}
+.container .port p {
+  font-size: 0.9rem;
 }
 
 /*# sourceMappingURL=index.css.map */

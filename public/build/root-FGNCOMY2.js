@@ -12,7 +12,7 @@ import {
 } from "/build/_shared/chunk-SBNNL67F.js";
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-EI6PHVAQ.css";
+var global_default = "/build/_assets/global-CXPOMUC5.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
@@ -20,7 +20,7 @@ var links = () => {
   return [
     {
       rel: "icon",
-      href: "/favicon.png",
+      href: "/favicon.ico",
       type: "image/png"
     },
     {
@@ -31,8 +31,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "The Citizen with Chris Signore",
-  description: "The Citizen is the premier source for policy and political coverage in Canada, reporting on the business of Parliament Hill and every aspect of the campaign trail.",
+  title: "CSPN - Know What's Going On",
+  description: "Chris Signore Publishing Network helps people like me and you know what's going on in the world.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-U4I3HHD7.js.map
+//# sourceMappingURL=/build/root-FGNCOMY2.js.map

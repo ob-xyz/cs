@@ -17,7 +17,19 @@
 }
 @font-face {
   font-family: bw;
-  src: url(/build/_assets/BroadwayD-FDCN7NFO.otf) format("otf");
+  src: url(/build/_assets/BroadwayD-OO56KZYB.woff2) format("woff2");
+}
+@font-face {
+  font-family: kl;
+  src: url(/build/_assets/Kinetika-Light-7UIUEB2Z.woff2) format("woff2");
+}
+@font-face {
+  font-family: ku;
+  src: url(/build/_assets/Kinetika-Ultra-D4N5IGMQ.woff2) format("woff2");
+}
+@font-face {
+  font-family: kui;
+  src: url(/build/_assets/kinetika-ultra-italic-2DPG7T5H.woff2) format("woff2");
 }
 .container {
   display: flex;
@@ -26,36 +38,46 @@
 }
 .container img {
   background: none;
-  margin: 1rem 0 2.5rem 0rem;
-  width: 3.5rem;
-  border-radius: .5rem;
+  margin: 2rem 0 1.5rem 0rem;
+  width: 2.5rem;
+}
+.container .line {
+  width: 7.5%;
+  border: 1px solid #fafafa;
+  margin-bottom: 2rem;
+  margin-top: .75rem;
+}
+.container h1 {
+  text-align: center;
+  font-family: ku;
+  font-size: 2rem;
+}
+.container form {
+  padding-top: 1.5rem;
 }
 .container .inner-content {
   display: flex;
   flex-direction: column;
 }
+.container .inner-content .text h1 {
+  text-align: center;
+  font-family: ku;
+}
 .container .inner-content .text p {
-  padding: .5rem 0 .35rem;
   text-align: center;
   font-size: 1rem;
-  line-height: 1.65rem;
-  width: 36.5%;
-}
-.container .inner-content .text p:nth-child(1) {
-  text-align: center;
-  font-family: bw;
-  font-weight: 700;
-  font-size: 1.5rem;
-  padding: 0;
+  line-height: 1.5rem;
+  padding: .25rem 0 1.25rem;
+  width: 50%;
 }
 .container .inner-content .text .tal {
   text-align: left;
 }
 .container .inner-content input {
-  width: 23rem;
+  width: 20rem;
   padding: .85rem .75rem;
   font-family: arial;
-  color: #000;
+  color: #fafafa;
   border: 2px solid black;
   border-radius: .2rem;
   font-size: 1.1rem;
@@ -67,19 +89,41 @@
   caret-color: #000;
 }
 .container .inner-content .email {
-  margin-top: .75rem;
   padding-left: .6rem;
+  margin-top: .15rem;
 }
 .container .inner-content .submit {
   padding: .75rem;
   margin-top: .5rem;
   margin-bottom: .65rem;
-  background-color: #000;
-  color: #fff;
+  background-color: #fafafa;
+  color: #000;
 }
 .container .inner-content .submit:hover {
   opacity: .85;
   cursor: pointer;
+}
+.container .port {
+  display: flex;
+  flex-direction: row;
+  gap: 5rem;
+  padding-bottom: 1.5rem;
+}
+.container .port a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.container .port a img {
+  width: 4.25rem;
+  border-radius: .5rem;
+  max-width: 100%;
+  margin: 2rem 0 .65rem;
+}
+.container .port p {
+  font-size: .9rem;
 }
 * {
   box-sizing: border-box;
@@ -90,8 +134,8 @@ html,
 body {
   margin: auto;
   width: 100%;
-  height: 100vh;
-  background-color: #fafafa;
+  min-height: 100vh;
+  background: #111;
 }
 body {
   overflow-y: none;
@@ -100,7 +144,7 @@ body {
 main {
   padding: 0;
   margin: 0;
-  background: #fafafa;
+  background: #111;
 }
 img {
   display: block;
@@ -115,9 +159,9 @@ a {
 }
 h1 {
   font-size: 1.35rem;
-  font-family: book;
+  font-family: medium;
   font-weight: 100;
-  color: #121212;
+  color: #fafafa;
   text-decoration: none;
   text-shadow: none;
 }
@@ -125,7 +169,7 @@ h2 {
   font-size: .8rem;
   font-family: medium;
   font-weight: 100;
-  color: #121212;
+  color: #fafafa;
   text-decoration: none;
   text-shadow: none;
 }
@@ -134,13 +178,13 @@ h4,
 h5,
 h6 {
   font-family: medium;
-  color: #121212;
+  color: #fafafa;
   text-shadow: none;
 }
 p {
   font-family: book;
   font-size: 1.1rem;
-  color: #121212;
+  color: #fafafa;
   text-shadow: none;
 }
 ul,
@@ -151,7 +195,7 @@ ol {
 span {
   font-family: bold;
   font-size: 4rem;
-  color: #121212;
+  color: #fafafa;
 }
 button {
   font-size: .8rem;

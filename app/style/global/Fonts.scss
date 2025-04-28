@@ -17,5 +17,17 @@
 }
 @font-face {
   font-family: 'bw';
-  src: url('../global/fonts/BroadwayD.otf') format('otf');
+  src: url('../global/fonts/BroadwayD.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'kl';
+  src: url('../global/fonts/Kinetika-Light.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'ku';
+  src: url('../global/fonts/Kinetika-Ultra.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'kui';
+  src: url('../global/fonts/kinetika-ultra-italic.woff2') format('woff2');
 }
