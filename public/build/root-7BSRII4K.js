@@ -12,7 +12,7 @@ import {
 } from "/build/_shared/chunk-SBNNL67F.js";
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-3PORY7W3.css";
+var global_default = "/build/_assets/global-5UZFRIQD.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
@@ -32,7 +32,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "CSPN",
-  description: "Sign up to know what's going on.",
+  description: "We are going back to the future. Wanna come with? sign up here.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-JPPM64SW.js.map
+//# sourceMappingURL=/build/root-7BSRII4K.js.map

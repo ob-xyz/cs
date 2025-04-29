@@ -51,7 +51,7 @@ function Index() {
           lineNumber: 29,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Chris Signore Publishing Network" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "We're going back to the future." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 30,
           columnNumber: 9
@@ -66,7 +66,7 @@ function Index() {
         lineNumber: 32,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "SIGN UP TO KNOW WHAT'S GOING ON" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "SIGN UP TO STAY INFORMED" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 33,
         columnNumber: 7
@@ -181,4 +181,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-SPP4QW7R.js.map
+//# sourceMappingURL=/build/routes/index-PQBL3ZFD.js.map

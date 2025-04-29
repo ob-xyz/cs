@@ -27,10 +27,10 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CSPN</h1>
-        <p>Chris Signore Publishing Network</p>
+        <h1>We're going back to the future.</h1>
       </div>
       <div className="line"></div>
-      <h1>SIGN UP TO KNOW WHAT'S GOING ON</h1>
+      <h1>SIGN UP TO STAY INFORMED</h1>
         <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <p><input className="email" type="name" name="name" required placeholder="First Name *" /></p>
             <p><input className="email" type="email" name="email" required placeholder="Business Email Address *" /></p>
