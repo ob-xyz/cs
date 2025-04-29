@@ -27,8 +27,18 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CSPN</h1>
-        <p>Know What's Going On</p>
+        <p>Chris Signore Publishing Network</p>
       </div>
+      <div className="line"></div>
+      <h1>SIGN UP TO KNOW WHAT'S GOING ON</h1>
+        <form method="post" action="https://app.jeffamzn.com/subscription/form">
+            <p><input className="email" type="name" name="name" required placeholder="First Name *" /></p>
+            <p><input className="email" type="email" name="email" required placeholder="Business Email Address *" /></p>
+            <p><input className="submit" type="submit" value="Subscribe" /></p>
+            <div className="h-captcha" data-sitekey="db0e76a6-3d84-4378-abe6-88526faac9d2"></div>
+            <input id="99104" type="hidden" name="l" checked value="99104eca-ebad-4185-b0d7-dc6821d41d60" />
+            <input type="hidden" name="nonce" />
+        </form>
       <div className="line"></div>
       <h1>PORTFOLIO</h1>
         <div className="port">
@@ -41,16 +51,7 @@ export default function Index() {
         <p>ThePoast.com</p>
         </a>
         </div>
-        <div className="line"></div>
-        <h1>GET IN TOUCH</h1>
-        <form method="post" action="https://app.jeffamzn.com/subscription/form">
-            <p><input className="email" type="name" name="name" required placeholder="Name" /></p>
-            <p><input className="email" type="email" name="email" required placeholder="Email" /></p>
-            <p><input className="submit" type="submit" value="Get in touch" /></p>
-            <div className="h-captcha" data-sitekey="db0e76a6-3d84-4378-abe6-88526faac9d2"></div>
-            <input id="99104" type="hidden" name="l" checked value="99104eca-ebad-4185-b0d7-dc6821d41d60" />
-            <input type="hidden" name="nonce" />
-        </form>
+
       </div>      
       </div>
   );

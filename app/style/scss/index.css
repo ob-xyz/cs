@@ -17,10 +17,14 @@
 .container h1 {
   text-align: center;
   font-family: ku;
-  font-size: 1.75rem;
+  font-size: 2rem;
+}
+.container h1:nth-child(4) {
+  width: 70%;
 }
 .container form {
   padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 .container .inner-content {
   display: flex;
@@ -35,7 +39,7 @@
   font-size: 0.925rem;
   line-height: 1.2rem;
   padding: 0.25rem 0 1.25rem 0;
-  width: 67.5%;
+  width: 100%;
 }
 .container .inner-content .text .tal {
   text-align: left;
