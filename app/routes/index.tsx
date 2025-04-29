@@ -27,7 +27,7 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CSPN</h1>
-        <p>Chris Signore Publishing Network is a small business that helps people like me and you know what's going on in the world.</p>
+        <p>Chris Signore Publishing Network</p>
       </div>
       <div className="line"></div>
       <h1>PORTFOLIO</h1>
