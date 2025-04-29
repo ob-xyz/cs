@@ -27,8 +27,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "CSPN - Know What's Going On",
-  description: "CSPN helps people like me and you know what's going on in the world.",
+  title: "CSPN",
+  description: "Wanna know what's going on in the world?",
   viewport: "width=device-width,initial-scale=1",
 });
 
