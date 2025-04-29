@@ -31,8 +31,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "CSPN - Know What's Going On",
-  description: "Chris Signore Publishing Network helps people like me and you know what's going on in the world.",
+  title: "CSPN",
+  description: "Chris Signore Publishing Network",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-FCPV2IFD.js.map
+//# sourceMappingURL=/build/root-E5AURB4K.js.map
