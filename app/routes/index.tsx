@@ -27,7 +27,7 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CSPN</h1>
-        <p>Know what's going on in the world</p>
+        <p>Know What's Going On</p>
       </div>
       <div className="line"></div>
       <h1>PORTFOLIO</h1>
