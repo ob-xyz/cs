@@ -38,12 +38,12 @@
 }
 .container img {
   background: none;
-  margin: 2rem 0 1.5rem 0rem;
+  margin: 0rem 0 0.5rem 0rem;
   width: 2.5rem;
 }
 .container .line {
   width: 7.5%;
-  border: 1px solid #fafafa;
+  border: 1px solid #111;
   margin-bottom: 2rem;
   margin-top: 0.75rem;
 }
@@ -65,10 +65,10 @@
 }
 .container .inner-content .text p {
   text-align: center;
-  font-size: 0.9rem;
-  line-height: 1.5rem;
+  font-size: 0.925rem;
+  line-height: 1.2rem;
   padding: 0.25rem 0 1.25rem 0;
-  width: 100%;
+  width: 67.5%;
 }
 .container .inner-content .text .tal {
   text-align: left;
@@ -137,7 +137,7 @@ body {
   margin: auto;
   width: 100%;
   min-height: 100vh;
-  background: #111;
+  background: #fff;
 }
 
 body {
@@ -148,7 +148,7 @@ body {
 main {
   padding: 0;
   margin: 0;
-  background: #111;
+  background: #fff;
 }
 
 img {
@@ -168,7 +168,7 @@ h1 {
   font-size: 1.35rem;
   font-family: "medium";
   font-weight: 100;
-  color: #fafafa;
+  color: #111;
   text-decoration: none;
   text-shadow: none;
 }
@@ -177,7 +177,7 @@ h2 {
   font-size: 0.8rem;
   font-family: "medium";
   font-weight: 100;
-  color: #fafafa;
+  color: #111;
   text-decoration: none;
   text-shadow: none;
 }
@@ -187,14 +187,14 @@ h4,
 h5,
 h6 {
   font-family: "medium";
-  color: #fafafa;
+  color: #111;
   text-shadow: none;
 }
 
 p {
   font-family: book;
   font-size: 1.1rem;
-  color: #fafafa;
+  color: #111;
   text-shadow: none;
 }
 
@@ -207,7 +207,7 @@ ol {
 span {
   font-family: bold;
   font-size: 4rem;
-  color: #fafafa;
+  color: #111;
 }
 
 button {

@@ -8,7 +8,7 @@ import {
 var import_react = __toESM(require_react());
 
 // public/img/cs.png
-var cs_default = "/build/_assets/cs-2ZJGLCVD.png";
+var cs_default = "/build/_assets/cs-PAJ437RV.png";
 
 // public/img/ja.png
 var ja_default = "/build/_assets/ja-ZP4Y3AOT.png";
@@ -51,7 +51,7 @@ function Index() {
           lineNumber: 29,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Chris Signore Publishing Network" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Know what's going on in the world" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 30,
           columnNumber: 9
@@ -181,4 +181,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-DHHLRC6A.js.map
+//# sourceMappingURL=/build/routes/index-L43U2ZUA.js.map

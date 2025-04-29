@@ -5,12 +5,12 @@
 }
 .container img {
   background: none;
-  margin: 2rem 0 1.5rem 0rem;
+  margin: 0rem 0 0.5rem 0rem;
   width: 2.5rem;
 }
 .container .line {
   width: 7.5%;
-  border: 1px solid #fafafa;
+  border: 1px solid #111;
   margin-bottom: 2rem;
   margin-top: 0.75rem;
 }
@@ -32,10 +32,10 @@
 }
 .container .inner-content .text p {
   text-align: center;
-  font-size: 0.9rem;
-  line-height: 1.5rem;
+  font-size: 0.925rem;
+  line-height: 1.2rem;
   padding: 0.25rem 0 1.25rem 0;
-  width: 100%;
+  width: 67.5%;
 }
 .container .inner-content .text .tal {
   text-align: left;
