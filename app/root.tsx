@@ -28,7 +28,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "CSPN",
-  description: "We are going back to the future. Wanna come with? sign up here.",
+  description: "We're going back to the future. Sign up here to stay informed.",
   viewport: "width=device-width,initial-scale=1",
 });
 
