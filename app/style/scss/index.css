@@ -9,7 +9,7 @@
   width: 2.5rem;
 }
 .container .line {
-  width: 7.5%;
+  width: 4%;
   border: 1px solid #111;
   margin-bottom: 2rem;
   margin-top: 0.75rem;
@@ -20,15 +20,16 @@
   font-size: 1.75rem;
 }
 .container h1:nth-child(2) {
-  font-size: 0.925rem;
+  font-size: 0.975rem;
+  padding-bottom: 1.25rem;
 }
 .container h1:nth-child(4) {
-  font-size: 2.75rem;
-  line-height: 2.75rem;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
   width: 60%;
 }
 .container form {
-  padding-top: 1.5rem;
+  padding-top: 0.25rem;
   padding-bottom: 1.5rem;
 }
 .container .inner-content {

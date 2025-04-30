@@ -8,7 +8,7 @@
         width: 2.5rem;
     }
     .line{
-        width:7.5%;
+        width:4%;
         border: 1px solid #111;
         margin-bottom:2rem;
         margin-top:.75rem;
@@ -19,15 +19,16 @@
         font-size:1.75rem;
     }
     h1:nth-child(2){
-        font-size:.925rem;
+        font-size:.975rem;
+        padding-bottom:1.25rem;
     }
     h1:nth-child(4){
-        font-size:2.75rem;
-        line-height: 2.75rem;
+        font-size:2.25rem;
+        line-height: 2.5rem;
         width:60%;
     }
     form{
-        padding-top:1.5rem;
+        padding-top:.25rem;
         padding-bottom:1.5rem;
     }
 
