@@ -51,7 +51,7 @@ function Index() {
           lineNumber: 29,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "News that feels good." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Every news story that matters." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 30,
           columnNumber: 9
@@ -181,4 +181,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-QPRIHU3Y.js.map
+//# sourceMappingURL=/build/routes/index-QQQQT7SF.js.map

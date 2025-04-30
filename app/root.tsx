@@ -28,7 +28,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "CSPN : Chris Signore Publishing Network",
-  description: "News that feels good, not bad.",
+  description: "Every news story that matters.",
   viewport: "width=device-width,initial-scale=1",
 });
 

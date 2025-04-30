@@ -27,7 +27,7 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CSPN</h1>
-        <h1>News that feels good.</h1>
+        <h1>Every news story that matters.</h1>
       </div>
       <div className="line"></div>
       <h1>SIGN UP TO STAY INFORMED</h1>
