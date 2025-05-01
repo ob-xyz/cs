@@ -26,7 +26,6 @@ export default function Index() {
       <div className="inner-content">
       <div className="line"></div>
       <div className="text">
-        <h1>CSPN</h1>
         <h1>Every story that matters.</h1>
       </div>
       <div className="line"></div>
