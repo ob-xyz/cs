@@ -2,6 +2,9 @@ import { useEffect } from "react";
 import logo from "~/../public/img/cs.png";
 import logo2 from "~/../public/img/ja.png";
 import logo3 from "~/../public/img/tp.png";
+import logox from "~/../public/img/x-logo.png";
+import logol from "~/../public/img/l-logo.png";
+
 
 export default function Index() {
   useEffect(() => {
@@ -26,7 +29,7 @@ export default function Index() {
       <div className="inner-content">
       <div className="line"></div>
       <div className="text">
-        <h1>A small business started by me.</h1>
+        <h2>Welcome to the CSPN, a small business started by me, Chris Signore.</h2>
       </div>
       <div className="line"></div>
       <h1>SIGN UP TO STAY INFORMED</h1>
@@ -50,7 +53,31 @@ export default function Index() {
         <p>ThePoast.com</p>
         </a>
         </div>
-
+        <div className="line"></div>
+      <h1>FOLLOW</h1>
+      <h2>BUSINESS</h2>
+        <div className="socials">
+        <a href="https://x.com/thecspn" target="_blank" rel="noopener noreferrer">
+        <img src={logox} alt="Logo" />
+        <p>@thecspn</p>
+        </a>
+        <a href="https://linkedin.com/company/csmchq" target="_blank" rel="noopener noreferrer">
+        <img src={logol} alt="Logo" />
+        <p>thecspn</p>
+        </a>
+        </div>
+        <h1>MORE</h1>
+        <h2>PERSONAL</h2>
+        <div className="socials2">
+        <a href="https://x.com/chrissignore" target="_blank" rel="noopener noreferrer">
+        <img src={logox} alt="Logo" />
+        <p>@chrissignore</p>
+        </a>
+        <a href="https://linkedin.com/in/chrissignore" target="_blank" rel="noopener noreferrer">
+        <img src={logol} alt="Logo" />
+        <p>chrissignore</p>
+        </a>
+        </div>
       </div>      
       </div>
   );

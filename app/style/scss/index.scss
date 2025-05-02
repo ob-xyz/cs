@@ -18,13 +18,17 @@
         font-family: ku;
         font-size:1.75rem;
     }
-    h1:nth-child(1){
-        font-size:.975rem;
-        width:62.5%;
-        padding-bottom:1.25rem;
-    }
     h1:nth-child(4){
         width:60%;
+    }
+    h1:nth-child(13){
+        padding-top:1.75rem;
+    }
+    h2{
+        text-align: center;
+        font-size:.975rem;
+        width:43%;
+        padding-bottom:1.25rem;
     }
     form{
         padding-top:.25rem;
@@ -83,10 +87,12 @@ input{
 }  
   }
 
-  .port{
+  .port,
+  .socials,
+  .socials2{
     display:flex;
     flex-direction: row;
-    gap:5rem;
+    gap:4rem;
     padding-bottom:1.5rem;
     a {
         display: flex;
@@ -102,7 +108,14 @@ input{
         margin:2rem 0 .65rem 0;
       }
       p{
-        font-size:.9rem;
-      }
-  }
+          font-size:.9rem;
+        }
+    }
+    .socials{
+    gap:5.75rem;
 }
+.socials2{
+    gap:5.25rem;
+}
+}
+
