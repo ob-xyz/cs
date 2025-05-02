@@ -29,7 +29,9 @@ export default function Index() {
       <div className="inner-content">
       <div className="line"></div>
       <div className="text">
-        <h2>Welcome to the CSPN, a small business started by me, Chris Signore.</h2>
+        <h2>Gidday!</h2>
+        <h2>Welcome to CSPN, a small business started by me—Chris Signore—so I could be more curious, have fun conversations, and support my family.</h2>
+        <h2>But enough about me, cause the truth is. I actually built this website so I could have a shot at getting to know you. Lets talk!</h2>
       </div>
       <div className="line"></div>
       <h1>SIGN UP TO STAY INFORMED</h1>
