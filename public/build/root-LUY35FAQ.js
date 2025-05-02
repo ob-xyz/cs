@@ -32,7 +32,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Chris Signore Publishing Network",
-  description: "Every story that matters.",
+  description: "Welcome to the Chris Signore Publishing Network, a small business started by me \u2014 Chris Signore.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -90,4 +90,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-DTIFKGDU.js.map
+//# sourceMappingURL=/build/root-LUY35FAQ.js.map
