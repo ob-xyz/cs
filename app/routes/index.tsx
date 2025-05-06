@@ -30,10 +30,11 @@ export default function Index() {
       <div className="inner-content">
       <div className="line"></div>
       <div className="text">
-        <h2>hey! thanks for dropping by.</h2>
-        <h2>I'm Chris Signore — a small business tinkerer and hobbyist software developer since Windows 95.</h2>
-        <h2>In 2017 I left a small company to start a small business that helps me support my family and work on my own ideas.</h2>
-        <h2>And now? it's how I stay curious, have fun conversations, and enjoy every dang day!!</h2>
+        <h2>I'm Chris Signore. And in 2017 I started a small business that changed mine (and my families life) forever.</h2>
+        <h2>Maybe you've heard of the one person billion dollar company?</h2>
+        <h2>Well, I'm the guy who's actually doing it.</h2>
+        <h2>This year my small business is on track to do over 8-figures of revenue and is still growing like a rocket.</h2>
+        <h2>With only one employee — me!!</h2>
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>
