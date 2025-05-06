@@ -1,7 +1,8 @@
 import { useEffect } from "react";
-import logo from "~/../public/img/cs.png";
+import logo from "~/../public/img/cs3.jpeg";
 import logo2 from "~/../public/img/ja.png";
 import logo3 from "~/../public/img/tp.png";
+import logo4 from "~/../public/img/vw.png";
 import logox from "~/../public/img/x-logo.png";
 import logol from "~/../public/img/l-logo.png";
 
@@ -29,12 +30,13 @@ export default function Index() {
       <div className="inner-content">
       <div className="line"></div>
       <div className="text">
-        <h2>Gidday!</h2>
-        <h2>Welcome to CSPN, a small business started by me—Chris Signore—so I could be more curious, have fun conversations, and support my family.</h2>
-        <h2>But enough about me, cause the truth is. I actually built this website so I could have a shot at getting to know you. Lets talk!</h2>
+        <h2>hey! thanks for dropping by.</h2>
+        <h2>I'm Chris Signore — a small business tinkerer and hobbyist software developer since Windows 95.</h2>
+        <h2>In 2017 I left a small company to start a small business that helps me support my family and work on my own ideas.</h2>
+        <h2>And now? it's how I stay curious, have fun conversations, and enjoy every dang day!!</h2>
       </div>
       <div className="line"></div>
-      <h1>SIGN UP TO STAY INFORMED</h1>
+      <h1>GET IN TOUCH</h1>
         <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <p><input className="email" type="name" name="name" required placeholder="First Name *" /></p>
             <p><input className="email" type="email" name="email" required placeholder="Business Email Address *" /></p>
@@ -45,14 +47,21 @@ export default function Index() {
         </form>
       <div className="line"></div>
       <h1>PORTFOLIO</h1>
+      <h2>CSPN</h2>
         <div className="port">
         <a href="https://jeffamzn.com" target="_blank" rel="noopener noreferrer">
         <img src={logo2} alt="Logo" />
-        <p>Jeffamzn.com</p>
+        <p>jeffamzn.com</p>
         </a>
         <a href="https://thepoast.com" target="_blank" rel="noopener noreferrer">
         <img src={logo3} alt="Logo" />
-        <p>ThePoast.com</p>
+        <p>thepoast.com</p>
+        </a>
+        </div>
+        <div className="port">
+        <a href="https://thevalleywag.com" target="_blank" rel="noopener noreferrer">
+        <img src={logo4} alt="Logo" />
+        <p>thevalleywag.com</p>
         </a>
         </div>
         <div className="line"></div>
@@ -65,7 +74,7 @@ export default function Index() {
         </a>
         <a href="https://linkedin.com/company/csmchq" target="_blank" rel="noopener noreferrer">
         <img src={logol} alt="Logo" />
-        <p>thecspn</p>
+        <p>cspnhq</p>
         </a>
         </div>
         <h1>MORE</h1>

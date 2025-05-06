@@ -4,8 +4,11 @@
     padding-bottom:17.5rem;
     img{
         background:none;
-        margin:0rem 0 .5rem 0rem;
-        width: 2.5rem;
+        margin:1rem 0 .25rem 0rem;
+        width: 6.5rem;
+        border-radius: 10rem;
+        background: linear-gradient(to left, #00d2ff, #3a7bd5) border-box;
+        border: .2rem solid transparent;
     }
     .line{
         width:4%;
@@ -19,18 +22,15 @@
         font-size:1.75rem;
     }
     h1:nth-child(4){
-        width:22%;
+        width:25.5%;
     }
-    h1:nth-child(13){
-        padding-top:1.75rem;
+    h1:nth-child(15){
+        padding-top:2.25rem;
     }
     h2{
         text-align: center;
         font-size:.975rem;
-        width:30%;
-    }
-    h2:nth-child(2),
-    h2:nth-child(3){
+        width:40%;
         padding-bottom:1.25rem;
     }
     form{
@@ -109,10 +109,11 @@ input{
         border-radius: .5rem;
         max-width: 100%;  /* Optional: ensures the image doesn't overflow */
         margin:2rem 0 .65rem 0;
+        border: .15rem solid #000;
       }
       p{
           font-size:.9rem;
-        }
+      }
     }
     .socials{
     gap:5.75rem;
