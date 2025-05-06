@@ -31,8 +31,8 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
-        <h2>FOUNDER OF CSPN INC.</h2>
-        <p>I'm Chris Signore. And in 2017 I started a small business that completely change my life.</p>
+        <h2>OWNER OF CSPN INC.</h2>
+        <p>I'm Chris Signore. And in 2017 I started a small business that has changed my families life.</p>
         <p>In the beginning I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in media.</p>
         <p>The only things I had were grit. Ideas. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>

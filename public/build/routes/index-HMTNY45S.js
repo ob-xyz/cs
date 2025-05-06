@@ -60,12 +60,12 @@ function Index() {
           lineNumber: 33,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "FOUNDER OF CSPN INC." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "OWNER OF CSPN INC." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 34,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I'm Chris Signore. And in 2017 I started a small business that completely change my life." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I'm Chris Signore. And in 2017 I started a small business that has changed my families life." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 35,
           columnNumber: 9
@@ -366,4 +366,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-DJ6HM6CC.js.map
+//# sourceMappingURL=/build/routes/index-HMTNY45S.js.map
