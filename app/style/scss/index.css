@@ -6,7 +6,7 @@
 .container img {
   background: none;
   margin: 1rem 0 0.25rem 0rem;
-  width: 6.5rem;
+  width: 8rem;
   border-radius: 10rem;
   background: linear-gradient(to left, #00d2ff, #3a7bd5) border-box;
   border: 0.2rem solid transparent;
@@ -31,7 +31,6 @@
 .container h2 {
   text-align: center;
   font-size: 0.975rem;
-  width: 40%;
   padding-bottom: 1.25rem;
 }
 .container form {
@@ -47,11 +46,14 @@
   font-family: ku;
 }
 .container .inner-content .text p {
-  text-align: center;
-  font-size: 0.925rem;
-  line-height: 1.2rem;
+  text-align: left;
+  font-size: 1.05rem;
+  line-height: 1.45rem;
   padding: 0.25rem 0 1.25rem 0;
-  width: 100%;
+  width: 35%;
+}
+.container .inner-content .text p b {
+  font-family: bold;
 }
 .container .inner-content .text .tal {
   text-align: left;
