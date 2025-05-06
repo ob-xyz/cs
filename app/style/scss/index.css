@@ -26,7 +26,7 @@
   width: 30%;
 }
 .container h1:nth-child(15) {
-  padding-top: 2rem;
+  padding-top: 1.75rem;
 }
 .container h2 {
   text-align: center;
@@ -124,6 +124,33 @@
 }
 .container .socials2 {
   gap: 5.25rem;
+}
+
+@media screen and (min-width: 650px) and (max-width: 840px) {
+  .container .inner-content .text p {
+    width: 45%;
+  }
+}
+@media screen and (min-width: 500px) and (max-width: 649px) {
+  .container .inner-content .text p {
+    font-size: 1rem;
+    line-height: 1.35rem;
+    width: 60%;
+  }
+}
+@media screen and (min-width: 400px) and (max-width: 499px) {
+  .container .inner-content .text p {
+    font-size: 1rem;
+    line-height: 1.35rem;
+    width: 70%;
+  }
+}
+@media screen and (max-width: 399px) {
+  .container .inner-content .text p {
+    font-size: 1rem;
+    line-height: 1.35rem;
+    width: 80%;
+  }
 }
 
 /*# sourceMappingURL=index.css.map */
