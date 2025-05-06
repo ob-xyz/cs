@@ -34,13 +34,13 @@ export default function Index() {
         <h2>FOUNDER OF CSPN INC.</h2>
         <p>I'm Chris Signore. And in 2017 I started a small business that completely change my life.</p>
         <p>Maybe you've heard of the one person billion dollar company?</p>
-        <p>Well, I'm the guy who's actually doing it.</p>
-        <p>But the truth is, I originally had no idea what to do. Or how I was going to do it.</p>
+        <p>Well, I'm the guy who's doing it.</p>
+        <p>But the truth is, I started out with no idea what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in media.</p>
-        <p>But I had grit. Confidence. And a 2016 Macbook Pro.</p>
-        <p>After years of writing, coding, and shitpoasting on the internet, my small lifestyle business finally started to grow.</p>
-        <p>This year I'm on track to do well over 8-figures of revenue. And, I still think I got lucky.</p>
-        <p>If I knew then what I now know, it's plain as day that <b>branding, attention, and influence is just a process driven by distribution</b>.</p>
+        <p>But I had grit. Confidence. And a 2016 Macbook Pro I thrifted off e-bay.</p>
+        <p>Then after years of writing, coding, and shitpoasting on the internet, my small lifestyle business finally started to rocket.</p>
+        <p>This year it's on track to do well over 8-figures of revenue (and between me and you, I still think I got lucky).</p>
+        <p>But if I knew then what I know now, it's plain as day that <b>branding, attention, and influence is just a process driven by distribution</b>.</p>
         <p>Maybe someday I'll 'write a book' about how <i>distribution is everything</i> (it's not everything, but definitely a big tell you have a good design).</p>
         <p>But for now, I actually like being a small business tinkerer and hobbyist software developer who can grow your business like mine.</p>
       </div>

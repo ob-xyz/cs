@@ -55,7 +55,7 @@ __export(root_exports, {
 var import_react2 = require("@remix-run/react");
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-3F7A3HQ2.css";
+var global_default = "/build/_assets/global-JLNQIDBN.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
@@ -195,12 +195,12 @@ function Index() {
           lineNumber: 36,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Well, I'm the guy who's actually doing it." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Well, I'm the guy who's doing it." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But the truth is, I originally had no idea what to do. Or how I was going to do it." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But the truth is, I started out with no idea what to do. Or how to even do it." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
@@ -210,27 +210,27 @@ function Index() {
           lineNumber: 39,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But I had grit. Confidence. And a 2016 Macbook Pro." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But I had grit. Confidence. And a 2016 Macbook Pro I thrifted off e-bay." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "After years of writing, coding, and shitpoasting on the internet, my small lifestyle business finally started to grow." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Then after years of writing, coding, and shitpoasting on the internet, my small lifestyle business finally started to rocket." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 41,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "This year I'm on track to do well over 8-figures of revenue. And, I still think I got lucky." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "This year it's on track to do well over 8-figures of revenue (and between me and you, I still think I got lucky)." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 42,
           columnNumber: 9
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
-          "If I knew then what I now know, it's plain as day that ",
+          "But if I knew then what I know now, it's plain as day that ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("b", { children: "branding, attention, and influence is just a process driven by distribution" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 43,
-            columnNumber: 67
+            columnNumber: 71
           }, this),
           "."
         ] }, void 0, !0, {
@@ -506,7 +506,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-VYIDBJ7C.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-3HS2G7VS.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "98de63fe", hmr: void 0, url: "/build/manifest-98DE63FE.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-7563MT7U.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-FPHF3P6Z.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "cf43d540", hmr: void 0, url: "/build/manifest-CF43D540.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
