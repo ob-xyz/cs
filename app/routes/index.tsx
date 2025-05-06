@@ -37,11 +37,11 @@ export default function Index() {
         <p>I was 28. And knew no one in media.</p>
         <p>The only things I had were grit. Ideas. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
         <p>My best idea came from working at ProSlide, watching our CEO go wild over this one guys sales newsletter.</p>
-        <p>So that's exactly what I did. Every day I'd open my laptop and only do two things. Write social media posts to hype my newsletter, and software to eventually send it.</p>
-        <p>Finally in late 2019 things took off, and this year Jeffamzn is on track to do over 8-figures of revenue.</p>
+        <p>It made no sense to me, so that's exactly what I did—everyday I'd write social media posts to hype my newsletter, and software to eventually send it.</p>
+        <p>Then in late 2019 things started working, and this year Jeffamzn is on track to do over 8-figures of revenue.</p>
         <p>But the truth is, I got lucky.</p>
         <p>Because when I started this journey, I had no idea that a newsletter would be one of the best ways to build real relationships with real people.</p>
-        <p>Now everyone knows.</p>
+        <p>And now, everyone knows.</p>
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>
