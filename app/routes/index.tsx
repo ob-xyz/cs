@@ -33,16 +33,15 @@ export default function Index() {
         <h1>CHRIS SIGNORE</h1>
         <h2>FOUNDER OF CSPN INC.</h2>
         <p>I'm Chris Signore. And in 2017 I started a small business that completely change my life.</p>
-        <p>Maybe you've heard of the one person billion dollar company?</p>
-        <p>Well, I'm the guy who's doing it.</p>
-        <p>But the truth is, I started out with no idea what to do. Or how to even do it.</p>
+        <p>In the beginning I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in media.</p>
-        <p>But I had grit. Confidence. And a 2016 Macbook Pro I thrifted off e-bay.</p>
-        <p>Then after years of writing, coding, and shitpoasting on the internet, my small lifestyle business finally started to rocket.</p>
-        <p>This year it's on track to do well over 8-figures of revenue (and between me and you, I still think I got lucky).</p>
-        <p>But if I knew then what I know now, it's plain as day that <b>branding, attention, and influence is just a process driven by distribution</b>.</p>
-        <p>Maybe someday I'll 'write a book' about how <i>distribution is everything</i> (it's not everything, but definitely a big tell you have a good design).</p>
-        <p>But for now, I actually like being a small business tinkerer and hobbyist software developer who can grow your business like mine.</p>
+        <p>The only things I had were grit. Ideas. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
+        <p>My best idea came from working at ProSlide, watching our CEO go wild over this one guys sales newsletter.</p>
+        <p>So that's exactly what I did. Every day I'd open my laptop and only do two things. Write social media posts to hype my newsletter, and software to eventually send it.</p>
+        <p>Finally in late 2019 things took off, and this year Jeffamzn is on track to do over 8-figures of revenue.</p>
+        <p>But the truth is, I got lucky.</p>
+        <p>Because when I started this journey, I had no idea that a newsletter would be one of the best ways to build real relationships with real people.</p>
+        <p>Now everyone knows.</p>
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>

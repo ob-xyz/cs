@@ -1,0 +1,263 @@
+/* app/style/global/global.css */
+@font-face {
+  font-family: book;
+  src: url(/build/_assets/bal-book-RPKGHEBY.woff2) format("woff2");
+}
+@font-face {
+  font-family: medium;
+  src: url(/build/_assets/bal-medium-X4OF47SR.woff2) format("woff2");
+}
+@font-face {
+  font-family: bold;
+  src: url(/build/_assets/bal-bold-MFTBU4WP.woff2) format("woff2");
+}
+@font-face {
+  font-family: arial;
+  src: url(/build/_assets/bal-arial-AQMYFA4H.woff2) format("woff2");
+}
+@font-face {
+  font-family: bw;
+  src: url(/build/_assets/BroadwayD-OO56KZYB.woff2) format("woff2");
+}
+@font-face {
+  font-family: kl;
+  src: url(/build/_assets/Kinetika-Light-7UIUEB2Z.woff2) format("woff2");
+}
+@font-face {
+  font-family: ku;
+  src: url(/build/_assets/Kinetika-Ultra-D4N5IGMQ.woff2) format("woff2");
+}
+@font-face {
+  font-family: kui;
+  src: url(/build/_assets/kinetika-ultra-italic-2DPG7T5H.woff2) format("woff2");
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 17.5rem;
+}
+.container img {
+  background: none;
+  margin: 1rem 0 .25rem 0rem;
+  width: 8rem;
+  border-radius: 10rem;
+  background: linear-gradient(to left, #00d2ff, #3a7bd5) border-box;
+  border: .2rem solid transparent;
+}
+.container .line {
+  width: 4%;
+  border: 1px solid #000;
+  margin-bottom: 2rem;
+  margin-top: .75rem;
+}
+.container h1 {
+  text-align: center;
+  font-family: ku;
+  font-size: 1.75rem;
+}
+.container h1:nth-child(4) {
+  width: 30%;
+}
+.container h1:nth-child(15) {
+  padding-top: 1.5rem;
+}
+.container h2 {
+  text-align: center;
+  font-size: .975rem;
+  padding-bottom: 1.25rem;
+}
+.container form {
+  padding-top: .25rem;
+  padding-bottom: 1.5rem;
+}
+.container .inner-content {
+  display: flex;
+  flex-direction: column;
+}
+.container .inner-content .text h1 {
+  text-align: center;
+  font-family: ku;
+}
+.container .inner-content .text p {
+  text-align: left;
+  font-size: 1.05rem;
+  line-height: 1.45rem;
+  padding: .25rem 0 1.25rem;
+  width: 35%;
+}
+.container .inner-content .text p b {
+  font-family: bold;
+}
+.container .inner-content .text .tal {
+  text-align: left;
+}
+.container .inner-content input {
+  width: 20rem;
+  padding: .85rem .75rem;
+  font-family: arial;
+  color: #fafafa;
+  border: 2px solid black;
+  border-radius: .2rem;
+  font-size: 1.1rem;
+}
+.container .inner-content input:focus {
+  outline: none;
+  box-shadow: 0 0 1px 1px #000;
+  border-color: #000;
+  caret-color: #000;
+}
+.container .inner-content .email {
+  padding-left: .6rem;
+  margin-top: .15rem;
+}
+.container .inner-content .submit {
+  padding: .75rem;
+  margin-top: .5rem;
+  margin-bottom: .65rem;
+  background-color: #fafafa;
+  color: #000;
+}
+.container .inner-content .submit:hover {
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+.container .port,
+.container .socials,
+.container .socials2 {
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  padding-bottom: 1.5rem;
+}
+.container .port a,
+.container .socials a,
+.container .socials2 a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.container .port a img,
+.container .socials a img,
+.container .socials2 a img {
+  width: 4.25rem;
+  border-radius: .5rem;
+  max-width: 100%;
+  margin: 2rem 0 .65rem;
+  border: .15rem solid #000;
+}
+.container .port p,
+.container .socials p,
+.container .socials2 p {
+  font-size: .9rem;
+}
+.container .socials {
+  gap: 5.75rem;
+}
+.container .socials2 {
+  gap: 5.25rem;
+}
+@media screen and (min-width: 650px) and (max-width: 840px) {
+  .container .inner-content .text p {
+    width: 45%;
+  }
+}
+@media screen and (min-width: 500px) and (max-width: 649px) {
+  .container .inner-content .text p {
+    font-size: 1rem;
+    line-height: 1.35rem;
+    width: 60%;
+  }
+}
+@media screen and (min-width: 400px) and (max-width: 499px) {
+  .container .inner-content .text p {
+    font-size: 1rem;
+    line-height: 1.35rem;
+    width: 70%;
+  }
+}
+@media screen and (max-width: 399px) {
+  .container .inner-content .text p {
+    font-size: 1rem;
+    line-height: 1.35rem;
+    width: 80%;
+  }
+}
+* {
+  box-sizing: border-box;
+  margin: auto;
+  user-select: none;
+}
+html,
+body {
+  margin: auto;
+  width: 100%;
+  min-height: 100vh;
+  background: #fff;
+}
+body {
+  overflow-y: none;
+  overflow-x: hidden;
+}
+main {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+}
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  outline: none;
+  border: none;
+}
+a {
+  text-decoration: none;
+  font-family: book;
+}
+h1 {
+  font-size: 1.35rem;
+  font-family: medium;
+  font-weight: 100;
+  color: #000;
+  text-decoration: none;
+  text-shadow: none;
+}
+h2 {
+  font-size: .8rem;
+  font-family: medium;
+  font-weight: 100;
+  color: #000;
+  text-decoration: none;
+  text-shadow: none;
+}
+h3,
+h4,
+h5,
+h6 {
+  font-family: medium;
+  color: #000;
+  text-shadow: none;
+}
+p {
+  font-family: book;
+  font-size: 1.1rem;
+  color: #000;
+  text-shadow: none;
+}
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+}
+span {
+  font-family: bold;
+  font-size: 4rem;
+  color: #000;
+}
+button {
+  font-size: .8rem;
+  font-family: medium;
+  font-weight: 100;
+}
