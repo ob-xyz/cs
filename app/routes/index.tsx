@@ -33,12 +33,12 @@ export default function Index() {
         <h1>CHRIS SIGNORE</h1>
         <h2>SMALL BUSINESS OWNER</h2>
         <p>I'm Chris Signore. And in 2017 I started a small business that changed my life.</p>
-        <p>When I started I had no clue what to do. Or how to even do it.</p>
+        <p>When I first started I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in digital media.</p>
         <p>The only thing I knew was I had ideas. Grit. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
-        <p>Then in 2019 things finally started to go my way, and this year Jeffamzn is on track to do over 7-figures of revenue.</p>
+        <p>Then in 2019 things finally started to go my way—this year Jeffamzn is on track to do over 7-figures of revenue.</p>
         <p>But the truth is, I got lucky.</p>
-        <p>Because when I started this journey, I had no idea that email is one of the best ways to build real relationships with real people.</p>
+        <p>Because when I first started, I had no idea that emailing is one of the best ways to build real relationships with real people.</p>
         <p>And now, everyone knows.</p>
       </div>
       <div className="line"></div>
