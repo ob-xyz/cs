@@ -31,7 +31,7 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
-        <h2>SMALL BUSINESS OWNER</h2>
+        <h2>OWNER OF SIGNORE INC.</h2>
         <p>Small business owner. Writer of Jeffamzn... plus a few other things. I'm Chris Signore. And in 2017 I started a small business that changed my life.</p>
         <p>When I first started I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in digital media.</p>
