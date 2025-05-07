@@ -77,7 +77,7 @@ function Index() {
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "The only thing I knew\u2014I had ideas. Internet. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "The only thing I knew\u2014I had internet. Ideas. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
@@ -333,4 +333,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-263BBXTO.js.map
+//# sourceMappingURL=/build/routes/index-NJPN3CI6.js.map
