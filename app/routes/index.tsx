@@ -36,7 +36,7 @@ export default function Index() {
         <p>When I first started I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in digital media.</p>
         <p>The only thing I knew—I had internet. Ideas. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
-        <p>So I got to work. And in 2019 things started to take off—and this year—Jeffamzn is on track to do over 7-figures of revenue.</p>
+        <p>After years of iteration and work, things finally started to take off—and this year—Jeffamzn is on track to do over 7-figures of revenue.</p>
         <p>But the truth is, I got lucky.</p>
         <p>Because when I first started, I had no idea that emailing is one of the best ways to build real relationships with real people.</p>
         <p>Now, everyone knows.</p>
