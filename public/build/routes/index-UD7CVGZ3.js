@@ -75,7 +75,7 @@ function Index() {
           lineNumber: 36,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. And knew no one in media." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. And knew no one in digital media." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 9
@@ -356,4 +356,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-JOVJGCHW.js.map
+//# sourceMappingURL=/build/routes/index-UD7CVGZ3.js.map
