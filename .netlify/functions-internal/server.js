@@ -70,8 +70,8 @@ var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
   }
 ], meta = () => ({
   charset: "utf-8",
-  title: "Chris Signore Publishing Network",
-  description: "I'm Chris Signore. And in 2017 I started a small business that changed my life.",
+  title: "Chris Signore : Signore Inc.",
+  description: "Small business owner. Writer of Jeffamzn... plus a few other things. I'm Chris Signore. And in 2017 I started a small business that changed my life.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -180,12 +180,12 @@ function Index() {
           lineNumber: 33,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("h2", { children: "SMALL BUSINESS OWNER" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("h2", { children: "love + fury" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 34,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I'm Chris Signore. And in 2017 I started a small business that changed my life." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Small business owner. Writer of Jeffamzn... plus a few other things. I'm Chris Signore. And in 2017 I started a small business that changed my life." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 35,
           columnNumber: 9
@@ -200,12 +200,12 @@ function Index() {
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "The only thing I knew was I had ideas. Grit. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "The only thing I knew was I had ideas. Internet. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Then in 2019 things started to come together\u2014this year Jeffamzn is on track to do over 7-figures of revenue." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "So I got to work. And in 2019 things started to take off\u2014and this year\u2014Jeffamzn is on track to do over 7-figures of revenue." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 39,
           columnNumber: 9
@@ -220,7 +220,7 @@ function Index() {
           lineNumber: 41,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "And now, everyone knows." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Now, everyone knows." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 42,
           columnNumber: 9
@@ -298,7 +298,7 @@ function Index() {
         lineNumber: 55,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("h2", { children: "CSPN" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("h2", { children: "SIGNORE INC." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 56,
         columnNumber: 7
@@ -377,13 +377,13 @@ function Index() {
         columnNumber: 7
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "socials", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("a", { href: "https://x.com/thecspn", target: "_blank", rel: "noopener noreferrer", children: [
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("a", { href: "https://x.com/signoreinc", target: "_blank", rel: "noopener noreferrer", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: x_logo_default, alt: "Logo" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 78,
             columnNumber: 9
           }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "@thecspn" }, void 0, !1, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "@signoreinc" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 79,
             columnNumber: 9
@@ -399,7 +399,7 @@ function Index() {
             lineNumber: 82,
             columnNumber: 9
           }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "cspnhq" }, void 0, !1, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "signoreinc" }, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 83,
             columnNumber: 9
@@ -475,7 +475,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-TRDIQZHZ.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-6J7YVKZM.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "8f79059a", hmr: void 0, url: "/build/manifest-8F79059A.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-2U63U43L.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-Q4W6F3AW.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "3d995d4f", hmr: void 0, url: "/build/manifest-3D995D4F.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
