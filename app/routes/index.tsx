@@ -36,10 +36,10 @@ export default function Index() {
         <p>When I first started I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in digital media.</p>
         <p>The only thing I knew was I had ideas. Internet. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
-        <p>So I got to work. And in 2019 things started to take off, and this year Jeffamzn is on track to do over 7-figures of revenue.</p>
+        <p>So I got to work. And in 2019 things started to take off—and this year—Jeffamzn is on track to do over 7-figures of revenue.</p>
         <p>But the truth is, I got lucky.</p>
         <p>Because when I first started, I had no idea that emailing is one of the best ways to build real relationships with real people.</p>
-        <p>And now, everyone knows.</p>
+        <p>Now, everyone knows.</p>
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>
@@ -74,13 +74,13 @@ export default function Index() {
       <h1>FOLLOW</h1>
       <h2>BUSINESS</h2>
         <div className="socials">
-        <a href="https://x.com/thecspn" target="_blank" rel="noopener noreferrer">
+        <a href="https://x.com/signoreinc" target="_blank" rel="noopener noreferrer">
         <img src={logox} alt="Logo" />
-        <p>@thecspn</p>
+        <p>@signoreinc</p>
         </a>
         <a href="https://linkedin.com/company/csmchq" target="_blank" rel="noopener noreferrer">
         <img src={logol} alt="Logo" />
-        <p>cspnhq</p>
+        <p>signoreinc</p>
         </a>
         </div>
         <h1>MORE</h1>
