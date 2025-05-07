@@ -27,8 +27,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Chris Signore Publishing Network",
-  description: "Small business owner. Writer of Jeffamzn... plus a few other things. I'm Chris Signore. And I started a small business that changed my life doing this ...",
+  title: "Chris Signore : Signore Inc.",
+  description: "Small business owner. Writer of Jeffamzn... plus a few other things. I'm Chris Signore. And in 2017 I started a small business that changed my life.",
   viewport: "width=device-width,initial-scale=1",
 });
 
