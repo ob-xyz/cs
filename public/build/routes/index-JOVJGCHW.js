@@ -85,7 +85,7 @@ function Index() {
           lineNumber: 38,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "In late 2019 things started to click, and this year Jeffamzn is on track to do over 7-figures of revenue." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Then in 2019 things finally started to go my way, and this year Jeffamzn is on track to do over 7-figures of revenue." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 39,
           columnNumber: 9
@@ -95,7 +95,7 @@ function Index() {
           lineNumber: 40,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Because when I started this journey, I had no idea that a newsletter would be one of the best ways to build real relationships with real people." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Because when I started this journey, I had no idea that email is one of the best ways to build real relationships with real people." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 41,
           columnNumber: 9
@@ -356,4 +356,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-ESVZB22U.js.map
+//# sourceMappingURL=/build/routes/index-JOVJGCHW.js.map

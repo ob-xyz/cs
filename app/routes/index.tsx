@@ -36,9 +36,9 @@ export default function Index() {
         <p>When I started I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in media.</p>
         <p>The only thing I knew was I had ideas. Grit. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
-        <p>In late 2019 things started to click, and this year Jeffamzn is on track to do over 7-figures of revenue.</p>
+        <p>Then in 2019 things finally started to go my way, and this year Jeffamzn is on track to do over 7-figures of revenue.</p>
         <p>But the truth is, I got lucky.</p>
-        <p>Because when I started this journey, I had no idea that a newsletter would be one of the best ways to build real relationships with real people.</p>
+        <p>Because when I started this journey, I had no idea that email is one of the best ways to build real relationships with real people.</p>
         <p>And now, everyone knows.</p>
       </div>
       <div className="line"></div>
