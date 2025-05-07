@@ -85,7 +85,7 @@ function Index() {
           lineNumber: 38,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Then in 2019 things finally started to go my way\u2014this year Jeffamzn is on track to do over 7-figures of revenue." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Then in 2019 things started to come together\u2014this year Jeffamzn is on track to do over 7-figures of revenue." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 39,
           columnNumber: 9
@@ -356,4 +356,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-6FWMDPNA.js.map
+//# sourceMappingURL=/build/routes/index-6J7YVKZM.js.map
