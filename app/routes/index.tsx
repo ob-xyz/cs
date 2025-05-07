@@ -35,7 +35,7 @@ export default function Index() {
         <p>Small business owner. Writer of Jeffamzn... plus a few other things. I'm Chris Signore. And in 2017 I started a small business that changed my life.</p>
         <p>When I first started I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. And knew no one in digital media.</p>
-        <p>The only thing I knew was I had ideas. Internet. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
+        <p>The only thing I knew—I had ideas. Internet. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars.</p>
         <p>So I got to work. And in 2019 things started to take off—and this year—Jeffamzn is on track to do over 7-figures of revenue.</p>
         <p>But the truth is, I got lucky.</p>
         <p>Because when I first started, I had no idea that emailing is one of the best ways to build real relationships with real people.</p>
@@ -62,12 +62,6 @@ export default function Index() {
         <a href="https://thepoast.com" target="_blank" rel="noopener noreferrer">
         <img src={logo3} alt="Logo" />
         <p>thepoast.com</p>
-        </a>
-        </div>
-        <div className="port">
-        <a href="https://thevalleywag.com" target="_blank" rel="noopener noreferrer">
-        <img src={logo4} alt="Logo" />
-        <p>thevalleywag.com</p>
         </a>
         </div>
         <div className="line"></div>

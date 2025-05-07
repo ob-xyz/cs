@@ -16,9 +16,6 @@ var ja_default = "/build/_assets/ja-ZP4Y3AOT.png";
 // public/img/tp.png
 var tp_default = "/build/_assets/tp-MVDIHZT3.png";
 
-// public/img/vw.png
-var vw_default = "/build/_assets/vw-SQ3UDRQA.png";
-
 // public/img/x-logo.png
 var x_logo_default = "/build/_assets/x-logo-BN6QUYHI.png";
 
@@ -80,7 +77,7 @@ function Index() {
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "The only thing I knew was I had ideas. Internet. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "The only thing I knew\u2014I had ideas. Internet. And a 2016 Macbook Pro I thrifted off e-bay with my last $800 dollars." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
@@ -221,125 +218,105 @@ function Index() {
         lineNumber: 57,
         columnNumber: 9
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "port", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://thevalleywag.com", target: "_blank", rel: "noopener noreferrer", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: vw_default, alt: "Logo" }, void 0, false, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 69,
-          columnNumber: 9
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "thevalleywag.com" }, void 0, false, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 70,
-          columnNumber: 9
-        }, this)
-      ] }, void 0, true, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 68,
-        columnNumber: 9
-      }, this) }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "line" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 67,
         columnNumber: 9
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "line" }, void 0, false, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 73,
-        columnNumber: 9
-      }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "FOLLOW" }, void 0, false, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 74,
+        lineNumber: 68,
         columnNumber: 7
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "BUSINESS" }, void 0, false, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 75,
+        lineNumber: 69,
         columnNumber: 7
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "socials", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://x.com/signoreinc", target: "_blank", rel: "noopener noreferrer", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: x_logo_default, alt: "Logo" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 78,
+            lineNumber: 72,
             columnNumber: 9
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "@signoreinc" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 79,
+            lineNumber: 73,
             columnNumber: 9
           }, this)
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 77,
+          lineNumber: 71,
           columnNumber: 9
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://linkedin.com/company/csmchq", target: "_blank", rel: "noopener noreferrer", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: l_logo_default, alt: "Logo" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 82,
+            lineNumber: 76,
             columnNumber: 9
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "signoreinc" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 83,
+            lineNumber: 77,
             columnNumber: 9
           }, this)
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 81,
+          lineNumber: 75,
           columnNumber: 9
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 76,
+        lineNumber: 70,
         columnNumber: 9
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "MORE" }, void 0, false, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 86,
+        lineNumber: 80,
         columnNumber: 9
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "PERSONAL" }, void 0, false, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 87,
+        lineNumber: 81,
         columnNumber: 9
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "socials2", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://x.com/chrissignore", target: "_blank", rel: "noopener noreferrer", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: x_logo_default, alt: "Logo" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 90,
+            lineNumber: 84,
             columnNumber: 9
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "@chrissignore" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 91,
+            lineNumber: 85,
             columnNumber: 9
           }, this)
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 89,
+          lineNumber: 83,
           columnNumber: 9
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://linkedin.com/in/chrissignore", target: "_blank", rel: "noopener noreferrer", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: l_logo_default, alt: "Logo" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 94,
+            lineNumber: 88,
             columnNumber: 9
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "chrissignore" }, void 0, false, {
             fileName: "app/routes/index.tsx",
-            lineNumber: 95,
+            lineNumber: 89,
             columnNumber: 9
           }, this)
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
-          lineNumber: 93,
+          lineNumber: 87,
           columnNumber: 9
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 88,
+        lineNumber: 82,
         columnNumber: 9
       }, this)
     ] }, void 0, true, {
@@ -356,4 +333,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-Q4W6F3AW.js.map
+//# sourceMappingURL=/build/routes/index-263BBXTO.js.map
