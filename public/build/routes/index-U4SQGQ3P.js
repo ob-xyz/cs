@@ -67,17 +67,17 @@ function Index() {
           lineNumber: 35,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "In 2017, I went from selling water slides at someone else\u2019s small company to building a small business that changed my family's life." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "In 2017, I went from selling water slides for someone else to building a lifestyle business that changed my family's life." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 36,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But it started out with me having no clue what to do. Or how to even do it." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But when I started out I had no clue what to do. Or how to even do it." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. With zero connections in media or tech." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. With zero connections in media." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
@@ -87,7 +87,7 @@ function Index() {
           lineNumber: 39,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I remember I couldn't even printf 'hello world'. But I had faith. And a small window of time to finally work on my own ideas." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I remember long struggles just to printf 'hello world' before finally getting to work on my own ideas." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
           columnNumber: 9
@@ -333,4 +333,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-FGD4BFYZ.js.map
+//# sourceMappingURL=/build/routes/index-U4SQGQ3P.js.map

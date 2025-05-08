@@ -187,17 +187,17 @@ function Index() {
           lineNumber: 35,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "In 2017, I went from selling water slides at someone else\u2019s small company to building a small business that changed my family's life." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "In 2017, I went from selling water slides for someone else to building a lifestyle business that changed my family's life." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 36,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But it started out with me having no clue what to do. Or how to even do it." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But when I started out I had no clue what to do. Or how to even do it." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I was 28. With zero connections in media or tech." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I was 28. With zero connections in media." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
@@ -207,7 +207,7 @@ function Index() {
           lineNumber: 39,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I remember I couldn't even printf 'hello world'. But I had faith. And a small window of time to finally work on my own ideas." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I remember long struggles just to printf 'hello world' before finally getting to work on my own ideas." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
           columnNumber: 9
@@ -452,7 +452,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-MC5RLPQM.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-FGD4BFYZ.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "eb858a06", hmr: void 0, url: "/build/manifest-EB858A06.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-MC5RLPQM.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-U4SQGQ3P.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "137190b3", hmr: void 0, url: "/build/manifest-137190B3.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
