@@ -62,7 +62,7 @@ function Index() {
           lineNumber: 34,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I\u2019m Chris Signore \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Gidday! i\u2019m Chris Signore \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 35,
           columnNumber: 9
@@ -341,4 +341,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-L5EE7Z4A.js.map
+//# sourceMappingURL=/build/routes/index-4X6ZHXL7.js.map

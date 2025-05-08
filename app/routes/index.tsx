@@ -32,7 +32,7 @@ export default function Index() {
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
         <h2>INTERNET WRITER SINCE WINDOWS 95</h2>
-        <p>I’m Chris Signore — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things.</p>
+        <p>Gidday! i’m Chris Signore — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things.</p>
         <p>Back in 2017, I started a small business that changed my life.</p>
         <p>At the time I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. With zero connections in media.</p>
