@@ -32,12 +32,12 @@ export default function Index() {
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
         <h2>INTERNET WRITER SINCE WINDOWS 95</h2>
-        <p>Gidday! i’m Chris Signore — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things.</p>
+        <p>I’m Chris Signore — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things.</p>
         <p>Back in 2017, I started a small business that changed my life.</p>
         <p>At the time I had no clue what to do. Or how to even do it.</p>
-        <p>I was 28. With zero connections in media.</p>
-        <p>I remember all I had were ideas. Internet. And a 2016 Macbook Pro I thrifted off eBay with my last $500.</p>
-        <p>For years I spun my tires. Almost burning them out. But the moment I focused on driving the <b>right idea with the right strategy</b>—my life changed—and my first small business became my first zero to one.</p>
+        <p>I was 28. With zero connections in media or tech.</p>
+        <p>All I remember having were ideas. Internet. And a 2016 Macbook Pro I thrifted off eBay with my last $500.</p>
+        <p>For years I spun my tires. Almost burning them out. But the moment I focused on the <b>right idea with the right strategy</b>—my life changed.</p>
         <p>Today Jeffamzn is on track to do over 7-figures of revenue.</p>
         <p>But the truth is — I got lucky. Because at the time I had no idea that email (yes, email) is one of the best ways to meet curious people like me and you.</p>
       </div>

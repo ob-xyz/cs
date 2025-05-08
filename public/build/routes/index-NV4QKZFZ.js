@@ -62,7 +62,7 @@ function Index() {
           lineNumber: 34,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Gidday! i\u2019m Chris Signore \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I\u2019m Chris Signore \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 35,
           columnNumber: 9
@@ -77,24 +77,24 @@ function Index() {
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. With zero connections in media." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. With zero connections in media or tech." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I remember all I had were ideas. Internet. And a 2016 Macbook Pro I thrifted off eBay with my last $500." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "All I remember having were ideas. Internet. And a 2016 Macbook Pro I thrifted off eBay with my last $500." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 39,
           columnNumber: 9
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
-          "For years I spun my tires. Almost burning them out. But the moment I focused on driving the ",
+          "For years I spun my tires. Almost burning them out. But the moment I focused on the ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("b", { children: "right idea with the right strategy" }, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 40,
-            columnNumber: 104
+            columnNumber: 96
           }, this),
-          "\u2014my life changed\u2014and my first small business became my first zero to one."
+          "\u2014my life changed."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
@@ -341,4 +341,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-HJEBQCVI.js.map
+//# sourceMappingURL=/build/routes/index-NV4QKZFZ.js.map
