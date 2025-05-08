@@ -37,7 +37,7 @@ export default function Index() {
         <p>At the time I had no clue what to do. Or how to even do it.</p>
         <p>I was 28. With zero connections in media.</p>
         <p>I remember all I had were ideas. Internet. And a 2016 Macbook Pro I thrifted off eBay with my last $500.</p>
-        <p>For years I spun my tires. Almost burning them out. But the moment I focused on driving the <b>right idea with the right strategy</b>—my life changed. All of a sudden, my first small business became my first zero to one.</p>
+        <p>For years I spun my tires. Almost burning them out. But the moment I focused on driving the <b>right idea with the right strategy</b>—my life changed—and my first small business became my first zero to one.</p>
         <p>Today Jeffamzn is on track to do over 7-figures of revenue.</p>
         <p>But the truth is — I got lucky. Because at the time I had no idea that email (yes, email) is one of the best ways to meet curious people like me and you.</p>
       </div>

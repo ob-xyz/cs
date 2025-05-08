@@ -94,7 +94,7 @@ function Index() {
             lineNumber: 40,
             columnNumber: 104
           }, this),
-          "\u2014my life changed. All of a sudden, my first small business became my first zero to one."
+          "\u2014my life changed\u2014and my first small business became my first zero to one."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
@@ -341,4 +341,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-4X6ZHXL7.js.map
+//# sourceMappingURL=/build/routes/index-HJEBQCVI.js.map
