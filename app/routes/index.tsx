@@ -37,7 +37,7 @@ export default function Index() {
         <p>But I remember having no clue what to do. Or how to even do it.</p>
         <p>I was 28. With zero connections in media or tech.</p>
         <p>So I thrifted a 2016 Macbook Pro off eBay, and started watching CS50 on YouTube.</p>
-        <p>Like everyone at the start, I couldn't even printf 'hello world'. But I had faith. And eventually, a small window of time to work on my own ideas.</p>
+        <p>Like everyone at the start, I couldn't even printf 'hello world'. But I had faith. And a small window of time to work on my own ideas.</p>
         <p>Today my proprietary newsletter, Jeffamzn, is on track to do over 7-figures of revenue.</p>
         <p>But the truth is — I got lucky. Because back then I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you.</p>
       </div>
