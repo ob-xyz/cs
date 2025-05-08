@@ -72,7 +72,7 @@ function Index() {
           lineNumber: 36,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But I remember having no clue what to do. Or how to even do it." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But it started out with me having no clue what to do. Or how to even do it." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 9
@@ -87,7 +87,7 @@ function Index() {
           lineNumber: 39,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Like everyone at the start, I couldn't even printf 'hello world'. But I had faith. And a small window of time to work on my own ideas." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I remember I couldn't even printf 'hello world'. But I had faith. And a small window of time to finally work on my own ideas." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
           columnNumber: 9
@@ -333,4 +333,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-5UY63UI3.js.map
+//# sourceMappingURL=/build/routes/index-FGD4BFYZ.js.map

@@ -34,10 +34,10 @@ export default function Index() {
         <h2>PRODUCT IDEAS GUY SINCE WINDOWS 95</h2>
         <p>Hi, I’m Chris Signore — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things.</p>
         <p>In 2017, I went from selling water slides at someone else’s small company to building a small business that changed my family's life.</p>
-        <p>But I remember having no clue what to do. Or how to even do it.</p>
+        <p>But it started out with me having no clue what to do. Or how to even do it.</p>
         <p>I was 28. With zero connections in media or tech.</p>
         <p>So I thrifted a 2016 Macbook Pro off eBay, and started watching CS50 on YouTube.</p>
-        <p>Like everyone at the start, I couldn't even printf 'hello world'. But I had faith. And a small window of time to work on my own ideas.</p>
+        <p>I remember I couldn't even printf 'hello world'. But I had faith. And a small window of time to finally work on my own ideas.</p>
         <p>Today my proprietary newsletter, Jeffamzn, is on track to do over 7-figures of revenue.</p>
         <p>But the truth is — I got lucky. Because back then I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you.</p>
       </div>
