@@ -177,55 +177,47 @@ function Index() {
           lineNumber: 33,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("h2", { children: "ADDICTED TO THE GAME SINCE WINDOWS 95" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("h2", { children: "PRODUCT IDEAS GUY SINCE WINDOWS 95" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 34,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I\u2019m Chris Signore \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Hi, I\u2019m Chris Signore \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 35,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "And in 2017 I started a small business that changed my life." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "In 2017, I went from selling water slides at someone else\u2019s small company to building a small business that changed my family's life." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 36,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "At the time I had no clue what to do. Or how to even do it." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But I remember having no clue what to do. Or how to even do it." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I was 28. With zero connections in media." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "I was 28. With zero connections in media or tech." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But I had a 2016 Macbook Pro I thrifted off eBay with my last $500, and this crazy idea to start a newsletter." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "So I thrifted a 2016 Macbook Pro off eBay, and started watching CS50 on YouTube." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 39,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: [
-          "For years I spun my tires writing post after post. Almost burned them out. Then I finally focused on the ",
-          /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("b", { children: "right idea with the right strategy" }, void 0, !1, {
-            fileName: "app/routes/index.tsx",
-            lineNumber: 40,
-            columnNumber: 117
-          }, this),
-          "\u2014and my life changed."
-        ] }, void 0, !0, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Like everyone at the start, I couldn't even printf 'hello world'. But I had faith. And eventually, a small window of time to work on my own ideas." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Today Jeffamzn is on track to do over 7-figures of revenue." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Today my proprietary newsletter, Jeffamzn, is on track to do over 7-figures of revenue." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 41,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But the truth is \u2014 I got lucky. Because at the time I had no idea that email (yes, email) is one of the best ways to meet curious people like me and you." }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "But the truth is \u2014 I got lucky. Because back then I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you." }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 42,
           columnNumber: 9
@@ -460,7 +452,7 @@ function Index() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-MC5RLPQM.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-74VV72VG.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "5216d636", hmr: void 0, url: "/build/manifest-5216D636.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-Y6MZXPQP.js", imports: ["/build/_shared/chunk-6267OFIW.js", "/build/_shared/chunk-SBNNL67F.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-MC5RLPQM.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-7B5GETDA.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "621cb5ec", hmr: void 0, url: "/build/manifest-621CB5EC.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
