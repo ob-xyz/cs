@@ -70,9 +70,9 @@ export default function Index() {
         <img src={logox} alt="Logo" />
         <p>@signoreinc</p>
         </a>
-        <a href="https://linkedin.com/company/csmchq" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/company/signore" target="_blank" rel="noopener noreferrer">
         <img src={logol} alt="Logo" />
-        <p>signoreinc</p>
+        <p>signore</p>
         </a>
         </div>
         <h1>MORE</h1>
