@@ -60,7 +60,7 @@
     }
 }
 input{
-    width:20rem;
+    width:27.75rem;
     padding:.85rem .75rem;
     font-family: arial;
     color:#fafafa;
@@ -133,6 +133,9 @@ input{
                     width:45%;
                 }
             }
+            input{
+                width:20rem;
+            }
         }
      }
     }
@@ -147,6 +150,9 @@ input{
                         width:60%;
                     }
                 }
+                input{
+                    width:20rem;
+                }
             }
          }
         }
@@ -160,6 +166,9 @@ input{
                             width:70%;
                         }
                     }
+                    input{
+                        width:20rem;
+                    }
                 }
              }
             }
@@ -172,6 +181,9 @@ input{
                                 line-height:1.35rem;
                                 width:80%;
                             }
+                        }
+                        input{
+                            width:18.85rem;
                         }
                     }
                  }
