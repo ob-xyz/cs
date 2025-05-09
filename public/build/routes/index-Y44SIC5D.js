@@ -57,12 +57,12 @@ function Index() {
           lineNumber: 33,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "PRODUCT IDEAS GUY SINCE WINDOWS 95" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "WRITER. ENTREPRENEUR. INVESTOR." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 34,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Hi, I\u2019m Chris Signore \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Hi, I\u2019m Chris \u2014 a small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 35,
           columnNumber: 9
@@ -87,7 +87,7 @@ function Index() {
           lineNumber: 39,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I remember long struggles just to printf 'hello world' before finally getting to work on my own ideas." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "At the start I struggled to printf 'hello world', before finally having the courage to work on my own ideas." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
           columnNumber: 9
@@ -333,4 +333,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-U4SQGQ3P.js.map
+//# sourceMappingURL=/build/routes/index-Y44SIC5D.js.map
