@@ -31,15 +31,15 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
-        <h2>WRITER. ENTREPRENEUR. INVESTOR.</h2>
-        <p>Hi, I’m Chris — a small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things.</p>
-        <p>In 2017, I went from selling water slides for someone else to building a lifestyle business that changed my family's life.</p>
-        <p>But when I started out I had no clue what to do. Or how to even do it.</p>
-        <p>I was 28. With zero connections in media.</p>
-        <p>So I thrifted a 2016 Macbook Pro off eBay, and started watching CS50 on YouTube.</p>
-        <p>At the start I struggled to printf 'hello world', before finally having the courage to work on my own ideas.</p>
+        <h2>WRITER. ENTREPRENEUR.</h2>
+        <p>Hi, I’m Chris — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
+        <p>In 2017, I went from working an office job that sucked to starting a small business that changed my family's life.</p>
+        <p>But when I started I had no clue what to do. Or how to do it.</p>
+        <p>I was 28. Zero connections in media. No idea how to code.</p>
+        <p>So I thrifted a Macbook Pro off eBay, and started watching CS50 on YouTube.</p>
+        <p>It's been <b>HARD</b>. But the moment I finally started working on my own product ideas, everything changed.</p>
         <p>Today my proprietary newsletter, Jeffamzn, is on track to do over 7-figures of revenue.</p>
-        <p>But the truth is — I got lucky. Because back then I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you.</p>
+        <p>But the truth is — I got lucky. Because when I started out I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you.</p>
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>

@@ -57,37 +57,45 @@ function Index() {
           lineNumber: 33,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "WRITER. ENTREPRENEUR. INVESTOR." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "WRITER. ENTREPRENEUR." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 34,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Hi, I\u2019m Chris \u2014 a small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a couple other things." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Hi, I\u2019m Chris \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 35,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "In 2017, I went from selling water slides for someone else to building a lifestyle business that changed my family's life." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "In 2017, I went from working an office job that sucked to starting a small business that changed my family's life." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 36,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But when I started out I had no clue what to do. Or how to even do it." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But when I started I had no clue what to do. Or how to do it." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 37,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. With zero connections in media." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "I was 28. Zero connections in media. No idea how to code." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 38,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "So I thrifted a 2016 Macbook Pro off eBay, and started watching CS50 on YouTube." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "So I thrifted a Macbook Pro off eBay, and started watching CS50 on YouTube." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 39,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "At the start I struggled to printf 'hello world', before finally having the courage to work on my own ideas." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
+          "It's been ",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("b", { children: "HARD" }, void 0, false, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 40,
+            columnNumber: 22
+          }, this),
+          ". But the moment I finally started working on my own product ideas, everything changed."
+        ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 40,
           columnNumber: 9
@@ -97,7 +105,7 @@ function Index() {
           lineNumber: 41,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But the truth is \u2014 I got lucky. Because back then I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "But the truth is \u2014 I got lucky. Because when I started out I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 42,
           columnNumber: 9
@@ -333,4 +341,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-Y44SIC5D.js.map
+//# sourceMappingURL=/build/routes/index-HHNPLGOG.js.map
