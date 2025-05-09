@@ -33,10 +33,10 @@ export default function Index() {
         <h1>CHRIS SIGNORE</h1>
         <h2>WRITER. ENTREPRENEUR.</h2>
         <p>Hi, I’m Chris — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
-        <p>In 2017, I went from working an office job that sucked to starting a small business that changed my family's life.</p>
-        <p>But when I started I had no clue what to do. Or how to do it.</p>
-        <p>I was 28. Zero connections in media. No idea how to code.</p>
-        <p>So I thrifted a Macbook Pro off eBay, and started watching CS50 on YouTube.</p>
+        <p>In 2017, I went from a boring office job I didn't like to starting a small business that changed my family's life.</p>
+        <p>But when I started I had no idea what to do. Or how to do it.</p>
+        <p>I was 28. Zero connections in media. No clue how to code.</p>
+        <p>So I thrifted a Macbook off eBay, and started watching CS50 on YouTube.</p>
         <p>It's been <b>HARD</b>. But the moment I finally started working on my own product ideas, everything changed.</p>
         <p>Today my proprietary newsletter, Jeffamzn, is on track to do over 7-figures of revenue.</p>
         <p>But the truth is — I got lucky. Because when I started out I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you.</p>
