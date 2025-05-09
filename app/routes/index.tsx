@@ -37,12 +37,13 @@ export default function Index() {
         <p>But when I started I had no idea what to do. Or how to do it.</p>
         <p>I was 28. Zero connections in media. No clue how to code.</p>
         <p>So I thrifted a Macbook off eBay, and started watching CS50 on YouTube.</p>
-        <p>It's been <b>HARD</b>. But the moment I finally started working on my own product ideas, everything changed.</p>
+        <p>It's been <b>HARD</b>. But the moment I finally started working on my own ideas, everything changed.</p>
         <p>Today my proprietary newsletter, Jeffamzn, is on track to do over 7-figures of revenue.</p>
         <p>But the truth is — I got lucky. Because when I started out I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you.</p>
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>
+      <h2>CALL ME AT 613.273.7555</h2>
         <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <p><input className="email" type="name" name="name" required placeholder="First Name *" /></p>
             <p><input className="email" type="email" name="email" required placeholder="Business Email Address *" /></p>
