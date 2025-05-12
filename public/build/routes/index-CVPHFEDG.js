@@ -62,17 +62,17 @@ function Index() {
           lineNumber: 33,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Hi, I'm Chris \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Hi, I'm Chris \u2014 small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few more." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 34,
           columnNumber: 9
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
-          "If you need to reach me, one of the best ways is by calling me at ",
+          "If you need to reach me, you can call me anytime at ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("b", { children: "613.273.7555" }, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 35,
-            columnNumber: 78
+            columnNumber: 64
           }, this),
           "."
         ] }, void 0, true, {
@@ -316,4 +316,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-SFEBYXTD.js.map
+//# sourceMappingURL=/build/routes/index-CVPHFEDG.js.map
