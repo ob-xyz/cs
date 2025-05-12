@@ -31,8 +31,8 @@ export default function Index() {
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
         <h2>WRITER. ENTREPRENEUR.</h2>
-        <p>Hi, I'm Chris — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few more.</p>
-        <p>If you need to reach me, you can call me anytime at <b>613.273.7555</b>.</p>
+        <p>Hi, I'm Chris — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
+        <p>If you need to reach me <u>I prefer email</u>, but you can also call me anytime at <b className="uso">613.273.7555</b></p>
         {/* <p>Hi, I’m Chris — and I enjoy taking things from 0 → 1. I'm also a hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
         <p>In 2017, I went from getting fired from a dead-end office job to starting a small business that changed my family's life.</p>
         <p>I was 28. With zero connections in digital media.</p>
@@ -77,7 +77,7 @@ export default function Index() {
         </a>
         <a href="https://linkedin.com/company/signore" target="_blank" rel="noopener noreferrer">
         <img src={logol} alt="Logo" />
-        <p>signore</p>
+        <p>/signore</p>
         </a>
         </div>
         <h1>MORE</h1>
@@ -89,7 +89,7 @@ export default function Index() {
         </a>
         <a href="https://linkedin.com/in/chrissignore" target="_blank" rel="noopener noreferrer">
         <img src={logol} alt="Logo" />
-        <p>chrissignore</p>
+        <p>/chrissignore</p>
         </a>
         </div>
       </div>      

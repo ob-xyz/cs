@@ -6,8 +6,10 @@
 
 * {
   box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   margin: auto;
   user-select: none;
+  -webkit-user-select: none;
 }
 html,
 body {
