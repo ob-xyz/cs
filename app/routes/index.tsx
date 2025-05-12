@@ -2,7 +2,6 @@ import { useEffect } from "react";
 import logo from "~/../public/img/cs3.jpeg";
 import logo2 from "~/../public/img/ja.png";
 import logo3 from "~/../public/img/tp.png";
-import logo4 from "~/../public/img/vw.png";
 import logox from "~/../public/img/x-logo.png";
 import logol from "~/../public/img/l-logo.png";
 
@@ -32,18 +31,21 @@ export default function Index() {
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
         <h2>WRITER. ENTREPRENEUR.</h2>
-        <p>Hi, I’m Chris — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
-        <p>In 2017, I went from a dead-end office job to starting a small business that changed my family's life.</p>
-        <p>But when I started I had no idea what to do. Or how to do it.</p>
+        <p>Hi, I'm Chris — small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
+        <p>If you need to reach me, one of the best ways is by calling me at <b>613.273.7555</b>.</p>
+        {/* <p>Hi, I’m Chris — and I enjoy taking things from 0 → 1. I'm also a hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
+        <p>In 2017, I went from getting fired from a dead-end office job to starting a small business that changed my family's life.</p>
         <p>I was 28. With zero connections in digital media.</p>
+        <p>I had no clue what to do or how to even do it. But I knew I was done relying on someone else.</p>
         <p>So with my last $500, I thrifted a Macbook off eBay and started watching CS50 videos on YouTube.</p>
-        <p>It's been <b>HARD</b>. But the moment I finally started working on my own ideas, everything changed.</p>
-        <p>Today my proprietary newsletter, Jeffamzn, is on track to do over 7-figures of revenue.</p>
-        <p>But the truth is — I got lucky. Because when I first started I had no idea that sending an email (yes, email) is one of the best ways to meet interesting people like me and you.</p>
+        <p>During my breaks, I'd write proprietary software to send my newsletter, and post on social media for traction.</p>
+        <p>It was <b>HARD</b>. This year Jeffamzn is on track to do 7-figures in revenue.</p>
+        <p>But the truth is — I got lucky.</p>
+        <p>Because when I first started I had no idea that sending an email (yes, email) is one of the best ways to meet smart and interesting people like me and you.</p> */}
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>
-      <h2>CALL ME AT 613.273.7555</h2>
+      <h2>BY EMAIL</h2>
         <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <p><input className="email" type="name" name="name" required placeholder="First Name *" /></p>
             <p><input className="email" type="email" name="email" required placeholder="Business Email Address *" /></p>
