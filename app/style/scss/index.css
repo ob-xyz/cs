@@ -1,7 +1,6 @@
 .container {
   display: flex;
   flex-direction: column;
-  padding-bottom: 17.5rem;
 }
 .container img {
   background: none;
@@ -47,17 +46,14 @@
   font-family: ku;
 }
 .container .inner-content .text p {
-  text-align: left;
+  text-align: center;
   font-size: 1.05rem;
   line-height: 1.45rem;
   padding: 0.25rem 0 1.25rem 0;
-  width: 43.5%;
+  width: 36.5%;
 }
 .container .inner-content .text p b {
   font-family: bold;
-}
-.container .inner-content .text .tal {
-  text-align: left;
 }
 .container .inner-content input {
   width: 27.75rem;
@@ -125,6 +121,14 @@
 }
 .container .socials2 {
   gap: 5.25rem;
+}
+.container .footer {
+  padding-top: 12rem;
+  padding-bottom: 0.25rem;
+}
+.container .footer img {
+  width: 2.75rem;
+  background: none;
 }
 
 @media screen and (min-width: 650px) and (max-width: 840px) {

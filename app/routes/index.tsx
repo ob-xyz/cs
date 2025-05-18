@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import cs from "~/../public/img/cs.png";
 import logo from "~/../public/img/cs3.jpeg";
 import logo2 from "~/../public/img/ja.png";
 import logo3 from "~/../public/img/tp.png";
@@ -30,9 +31,8 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
-        <h2>WRITER. ENTREPRENEUR.</h2>
-        <p>Hi, I'm Chris -- small business owner, hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
-        <p>If you need to reach me <u>I prefer email</u>, but you can also call me anytime at <b className="uso">613.273.7555</b></p>
+        <h2>ENTREPRENEUR.</h2>
+        <p>Hi, I'm Chris — small business owner, hobbyist software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
         {/* <p>Hi, I’m Chris — and I enjoy taking things from 0 → 1. I'm also a hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
         <p>In 2017, I went from getting fired from a dead-end office job to starting a small business that changed my family's life.</p>
         <p>I was 28. With zero connections in digital media.</p>
@@ -45,7 +45,6 @@ export default function Index() {
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>
-      <h2>BY EMAIL</h2>
         <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <p><input className="email" type="name" name="name" required placeholder="First Name *" /></p>
             <p><input className="email" type="email" name="email" required placeholder="Business Email Address *" /></p>
@@ -56,7 +55,7 @@ export default function Index() {
         </form>
       <div className="line"></div>
       <h1>PORTFOLIO</h1>
-      <h2>SIGNORE INC.</h2>
+      <h2>BUSINESS</h2>
         <div className="port">
         <a href="https://jeffamzn.com" target="_blank" rel="noopener noreferrer">
         <img src={logo2} alt="Logo" />
@@ -68,31 +67,22 @@ export default function Index() {
         </a>
         </div>
         <div className="line"></div>
-      <h1>FOLLOW</h1>
-      <h2>BUSINESS</h2>
-        <div className="socials">
-        <a href="https://x.com/signoreinc" target="_blank" rel="noopener noreferrer">
-        <img src={logox} alt="Logo" />
-        <p>@signoreinc</p>
-        </a>
-        <a href="https://linkedin.com/company/signore" target="_blank" rel="noopener noreferrer">
-        <img src={logol} alt="Logo" />
-        <p>/signore</p>
-        </a>
-        </div>
         <h1>MORE</h1>
         <h2>PERSONAL</h2>
         <div className="socials2">
-        <a href="https://x.com/chrissignore" target="_blank" rel="noopener noreferrer">
-        <img src={logox} alt="Logo" />
-        <p>@chrissignore</p>
-        </a>
         <a href="https://linkedin.com/in/chrissignore" target="_blank" rel="noopener noreferrer">
         <img src={logol} alt="Logo" />
         <p>/chrissignore</p>
         </a>
+        <a href="https://x.com/chrissignore" target="_blank" rel="noopener noreferrer">
+        <img src={logox} alt="Logo" />
+        <p>@chrissignore</p>
+        </a>
         </div>
-      </div>      
+      </div> 
+      <div className="footer">
+              <img src={cs} />
+      </div>     
       </div>
   );
 }
