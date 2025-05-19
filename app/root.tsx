@@ -28,7 +28,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Chris Signore",
-  description: "Hi, I'm Chris -- small business owner, hobby software developer, and writer of Jeffamzn... plus a few other things.",
+  description: "Hi, I'm Chris — small business owner, hobbyist software developer, and writer of Jeffamzn... plus a few other things.",
   viewport: "width=device-width,initial-scale=1",
 });
 
