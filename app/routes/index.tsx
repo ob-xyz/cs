@@ -31,7 +31,7 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
-        <h2>JOURNALIST. INVESTOR.</h2>
+        <h2>FOUNDER. INVESTOR.</h2>
         <p>I'm the CEO of <a href="https://shilll.com" target="_blank" rel="noopener noreferrer"><u>Shilll</u></a> - a portfolio of newsletters.</p>
         <p>I've had a lot of ideas. </p>
         <p></p>
