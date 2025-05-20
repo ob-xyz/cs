@@ -31,8 +31,10 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
-        <h2>ENTREPRENEUR.</h2>
-        <p>Hi, I'm Chris — small business owner, hobbyist software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
+        <h2>JOURNALIST. INVESTOR.</h2>
+        <p>I'm the CEO of <a href="https://shilll.com" target="_blank" rel="noopener noreferrer"><u>Shilll</u></a> - a portfolio of newsletters.</p>
+        <p>I've had a lot of ideas. </p>
+        <p></p>
         {/* <p>Hi, I’m Chris — and I enjoy taking things from 0 → 1. I'm also a hobby software developer, and the guy who writes Jeffamzn... plus a few other things.</p>
         <p>In 2017, I went from getting fired from a dead-end office job to starting a small business that changed my family's life.</p>
         <p>I was 28. With zero connections in digital media.</p>

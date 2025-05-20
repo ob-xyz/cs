@@ -1,35 +1,35 @@
-/* FONTS */
+/* app/style/global/global.css */
 @font-face {
-  font-family: "book";
-  src: url("../global/fonts/bal-book.woff2") format("woff2");
+  font-family: book;
+  src: url(/build/_assets/bal-book-RPKGHEBY.woff2) format("woff2");
 }
 @font-face {
-  font-family: "medium";
-  src: url("../global/fonts/bal-medium.woff2") format("woff2");
+  font-family: medium;
+  src: url(/build/_assets/bal-medium-X4OF47SR.woff2) format("woff2");
 }
 @font-face {
-  font-family: "bold";
-  src: url("../global/fonts/bal-bold.woff2") format("woff2");
+  font-family: bold;
+  src: url(/build/_assets/bal-bold-MFTBU4WP.woff2) format("woff2");
 }
 @font-face {
-  font-family: "arial";
-  src: url("../global/fonts/bal-arial.woff2") format("woff2");
+  font-family: arial;
+  src: url(/build/_assets/bal-arial-AQMYFA4H.woff2) format("woff2");
 }
 @font-face {
-  font-family: "bw";
-  src: url("../global/fonts/BroadwayD.woff2") format("woff2");
+  font-family: bw;
+  src: url(/build/_assets/BroadwayD-OO56KZYB.woff2) format("woff2");
 }
 @font-face {
-  font-family: "kl";
-  src: url("../global/fonts/Kinetika-Light.woff2") format("woff2");
+  font-family: kl;
+  src: url(/build/_assets/Kinetika-Light-7UIUEB2Z.woff2) format("woff2");
 }
 @font-face {
-  font-family: "ku";
-  src: url("../global/fonts/Kinetika-Ultra.woff2") format("woff2");
+  font-family: ku;
+  src: url(/build/_assets/Kinetika-Ultra-D4N5IGMQ.woff2) format("woff2");
 }
 @font-face {
-  font-family: "kui";
-  src: url("../global/fonts/kinetika-ultra-italic.woff2") format("woff2");
+  font-family: kui;
+  src: url(/build/_assets/kinetika-ultra-italic-2DPG7T5H.woff2) format("woff2");
 }
 .container {
   display: flex;
@@ -37,17 +37,17 @@
 }
 .container img {
   background: none;
-  margin: 1rem 0 0.25rem 0rem;
+  margin: 1rem 0 .25rem 0rem;
   width: 6rem;
   border-radius: 10rem;
   background: linear-gradient(to left, #00d2ff, #3a7bd5) border-box;
-  border: 0.2rem solid transparent;
+  border: .2rem solid transparent;
 }
 .container .line {
   width: 4%;
   border: 1px solid #000;
   margin-bottom: 2rem;
-  margin-top: 0.75rem;
+  margin-top: .75rem;
 }
 .container h1 {
   text-align: center;
@@ -59,11 +59,11 @@
 }
 .container h2 {
   text-align: center;
-  font-size: 0.975rem;
+  font-size: .975rem;
   padding-bottom: 1.25rem;
 }
 .container form {
-  padding-top: 0.25rem;
+  padding-top: .25rem;
   padding-bottom: 1.5rem;
 }
 .container .uso {
@@ -82,43 +82,43 @@
   text-align: center;
   font-size: 1.05rem;
   line-height: 1.45rem;
-  padding: 0.25rem 0 1.25rem 0;
+  padding: .25rem 0 1.25rem;
   width: 36.5%;
 }
 .container .inner-content .text p b {
   font-family: bold;
 }
 .container .inner-content .text p a {
-  color: black;
+  color: #000;
 }
 .container .inner-content input {
   width: 27.75rem;
-  padding: 0.85rem 0.75rem;
+  padding: .85rem .75rem;
   font-family: arial;
   color: #fafafa;
   border: 2px solid black;
-  border-radius: 0.2rem;
+  border-radius: .2rem;
   font-size: 1.1rem;
 }
 .container .inner-content input:focus {
   outline: none;
-  box-shadow: 0 0 1px 1px black;
-  border-color: black;
-  caret-color: black;
+  box-shadow: 0 0 1px 1px #000;
+  border-color: #000;
+  caret-color: #000;
 }
 .container .inner-content .email {
-  padding-left: 0.6rem;
-  margin-top: 0.15rem;
+  padding-left: .6rem;
+  margin-top: .15rem;
 }
 .container .inner-content .submit {
-  padding: 0.75rem 0.75rem;
-  margin-top: 0.5rem;
-  margin-bottom: 0.65rem;
+  padding: .75rem;
+  margin-top: .5rem;
+  margin-bottom: .65rem;
   background-color: #fafafa;
-  color: black;
+  color: #000;
 }
 .container .inner-content .submit:hover {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   cursor: pointer;
 }
 .container .port,
@@ -134,23 +134,23 @@
 .container .socials2 a {
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center items horizontally */
-  justify-content: center; /* Center items vertically */
-  text-align: center; /* Ensure text inside <p> is centered */
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 .container .port a img,
 .container .socials a img,
 .container .socials2 a img {
   width: 4.25rem;
-  border-radius: 0.5rem;
-  max-width: 100%; /* Optional: ensures the image doesn't overflow */
-  margin: 2rem 0 0.65rem 0;
-  border: 0.15rem solid #000;
+  border-radius: .5rem;
+  max-width: 100%;
+  margin: 2rem 0 .65rem;
+  border: .15rem solid #000;
 }
 .container .port p,
 .container .socials p,
 .container .socials2 p {
-  font-size: 0.9rem;
+  font-size: .9rem;
 }
 .container .socials {
   gap: 5.75rem;
@@ -160,13 +160,12 @@
 }
 .container .footer {
   padding-top: 12rem;
-  padding-bottom: 0.25rem;
+  padding-bottom: .25rem;
 }
 .container .footer img {
   width: 2.75rem;
   background: none;
 }
-
 @media screen and (min-width: 650px) and (max-width: 840px) {
   .container .inner-content .text p {
     width: 45%;
@@ -212,7 +211,6 @@
   user-select: none;
   -webkit-user-select: none;
 }
-
 html,
 body {
   margin: auto;
@@ -220,18 +218,15 @@ body {
   min-height: 100vh;
   background: #fff;
 }
-
 body {
   overflow-y: none;
   overflow-x: hidden;
 }
-
 main {
   padding: 0;
   margin: 0;
   background: #fff;
 }
-
 img {
   display: block;
   width: 100%;
@@ -239,62 +234,52 @@ img {
   outline: none;
   border: none;
 }
-
 a {
   text-decoration: none;
-  font-family: "book";
+  font-family: book;
 }
-
 h1 {
   font-size: 1.35rem;
-  font-family: "medium";
+  font-family: medium;
   font-weight: 100;
   color: #000;
   text-decoration: none;
   text-shadow: none;
 }
-
 h2 {
-  font-size: 0.8rem;
-  font-family: "medium";
+  font-size: .8rem;
+  font-family: medium;
   font-weight: 100;
   color: #000;
   text-decoration: none;
   text-shadow: none;
 }
-
 h3,
 h4,
 h5,
 h6 {
-  font-family: "medium";
+  font-family: medium;
   color: #000;
   text-shadow: none;
 }
-
 p {
   font-family: book;
   font-size: 1.1rem;
   color: #000;
   text-shadow: none;
 }
-
 ul,
 ol {
   list-style: none;
   margin: 0;
 }
-
 span {
   font-family: bold;
   font-size: 4rem;
   color: #000;
 }
-
 button {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-family: medium;
   font-weight: 100;
 }
-
-/*# sourceMappingURL=global.css.map */
