@@ -31,8 +31,8 @@ export default function Index() {
       <div className="line"></div>
       <div className="text">
         <h1>CHRIS SIGNORE</h1>
-        <h2>ENTREPRENEUR.</h2>
-        <p>Hi, I'm Chris - small business owner, hobbyist software developer... and the guy who writes Jeffamzn, plus a few other things.</p>
+        <h2>SOFTWARE DESIGNER.</h2>
+        <p>Hi, I'm Chris - small business owner, hobbyist software designer... and the guy who writes Jeffamzn, plus a few other things.</p>
       </div>
       <div className="line"></div>
       <h1>GET IN TOUCH</h1>
